@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="filter-alt.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4,2.25 C 3.0423831,2.25 2.25,3.0423831 2.25,4 v 3 a 0.75,0.75 0 0 0 0.011719,0.027344 0.75,0.75 0 0 0 0.1054687,0.2558594 0.75,0.75 0 0 0 0.1308594,0.2597656 0.75,0.75 0 0 0 0.013672,0.027344 L 9.1621094,13.269531 C 9.2179517,13.317402 9.25,13.385601 9.25,13.458984 v 6.259766 c 0,1.120488 1.086798,1.971019 2.173828,1.699219 l 2,-0.5 C 14.199151,20.724138 14.75,20.017919 14.75,19.21875 v -5.757812 c 0,-0.07368 0.03209,-0.143584 0.08789,-0.191407 l 6.65039,-5.6992185 a 0.75,0.75 0 0 0 0.02539,-0.03125 0.75,0.75 0 0 0 0.03125,-0.041016 0.75,0.75 0 0 0 0.06641,-0.083984 0.75,0.75 0 0 0 0.04297,-0.054687 0.75,0.75 0 0 0 0.08984,-0.3359375 A 0.75,0.75 0 0 0 21.75,7 V 4 C 21.749827,3.0424852 20.957541,2.25 20,2.25 Z m 0,1.5 h 16 c 0.146858,0 0.249973,0.1030359 0.25,0.25 V 6.25 H 3.75 V 4 C 3.75,3.853058 3.853058,3.75 4,3.75 Z m 1.0292969,4 H 18.970703 l -5.109375,4.380859 C 13.47373,12.463036 13.25,12.950616 13.25,13.460938 v 5.757812 c 0,0.11863 -0.07438,0.213418 -0.189453,0.242187 l -2,0.5 C 10.885378,20.004737 10.75,19.89946 10.75,19.71875 v -6.259766 c 0,-0.510416 -0.223891,-0.995996 -0.611328,-1.328125 z"
+     id="path2" />
+</svg>

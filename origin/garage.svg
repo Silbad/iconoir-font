@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="garage.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 11.837891,3.2675781 -9.0000004,2 A 0.750075,0.750075 0 0 0 2.25,6 V 20 A 0.750075,0.750075 0 0 0 3,20.75 h 3 12 3 A 0.750075,0.750075 0 0 0 21.75,20 V 6 A 0.750075,0.750075 0 0 0 21.162109,5.2675781 l -9,-2 a 0.750075,0.750075 0 0 0 -0.324218,0 z m 0.162109,1.5 8.25,1.8339844 V 19.25 h -1.5 V 16 12 8 A 0.750075,0.750075 0 0 0 18,7.25 H 6 A 0.750075,0.750075 0 0 0 5.25,8 v 4 4 3.25 H 3.75 V 6.6015625 Z M 6.75,8.75 h 10.5 v 2.5 H 6.75 Z m 0,4 h 10.5 v 2.5 H 6.75 Z m 0,4 h 10.5 v 2.5 H 6.75 Z"
+     id="path2" />
+</svg>

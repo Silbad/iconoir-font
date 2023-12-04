@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="hourglass.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5,4.25 A 0.750075,0.750075 0 0 0 4.25,5 c 0,3.1129945 1.8716382,5.768887 4.5273438,7 C 6.1216383,13.231111 4.25,15.886999 4.25,19 A 0.750075,0.750075 0 0 0 5,19.75 H 19 A 0.750075,0.750075 0 0 0 19.75,19 c 0,-3.113 -1.871637,-5.768889 -4.527344,-7 C 17.878363,10.768886 19.75,8.1129936 19.75,5 A 0.750075,0.750075 0 0 0 19,4.25 Z m 0.9003906,1.5 H 18.099609 C 17.7151,8.8375922 15.194493,11.25 12,11.25 8.8055177,11.25 6.2849014,8.8375914 5.9003906,5.75 Z M 12,12.75 c 3.194494,0 5.7151,2.412401 6.099609,5.5 H 5.9003906 C 6.2849013,15.162401 8.8055165,12.75 12,12.75 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5,1.25 A 0.75,0.75 0 0 0 4.25,2 0.75,0.75 0 0 0 5,2.75 h 7 7 A 0.75,0.75 0 0 0 19.75,2 0.75,0.75 0 0 0 19,1.25 h -7 z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5,21.25 A 0.75,0.75 0 0 0 4.25,22 0.75,0.75 0 0 0 5,22.75 h 7 7 A 0.75,0.75 0 0 0 19.75,22 0.75,0.75 0 0 0 19,21.25 h -7 z"
+     id="path6" />
+</svg>

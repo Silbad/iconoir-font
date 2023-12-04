@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="asterisk.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.875"
+     inkscape:cx="11.98524"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,1.25 A 0.75,0.75 0 0 0 11.25,2 V 22 A 0.75,0.75 0 0 0 12,22.75 0.75,0.75 0 0 0 12.75,22 V 2 A 0.75,0.75 0 0 0 12,1.25 Z"
+     id="path1" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 3.2460938,6.5214844 A 0.75,0.75 0 0 0 2.7851563,6.8632812 0.75,0.75 0 0 0 3.0410156,7.8925781 L 20.185547,18.193359 A 0.75,0.75 0 0 0 21.214844,17.935547 0.75,0.75 0 0 0 20.957031,16.90625 L 3.8144531,6.6054687 A 0.75,0.75 0 0 0 3.2460938,6.5214844 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 20.753906,6.5214844 a 0.75,0.75 0 0 0 -0.568359,0.083984 L 3.0410156,16.90625 a 0.75,0.75 0 0 0 -0.2558593,1.029297 0.75,0.75 0 0 0 1.0292968,0.257812 L 20.957031,7.8925781 A 0.75,0.75 0 0 0 21.214844,6.8632812 0.75,0.75 0 0 0 20.753906,6.5214844 Z"
+     id="path3" />
+</svg>

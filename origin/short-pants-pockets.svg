@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="short-pants-pockets.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="M 3.6582031,4.25 C 2.875595,4.25 2.2409432,4.9433348 2.3125,5.7226562 l 0.5839844,6.3457028 0.5917969,6.455078 C 3.5514895,19.211685 4.1428812,19.75 4.8339844,19.75 H 8.984375 c 0.590202,0 1.118275,-0.390689 1.291016,-0.955078 L 12,13.160156 13.724609,18.794922 C 13.89736,19.359271 14.425418,19.75 15.015625,19.75 h 4.150391 c 0.691105,0 1.282623,-0.538253 1.345703,-1.226563 L 21.6875,5.7226562 C 21.758869,4.9434474 21.124414,4.25 20.341797,4.25 Z m 0.1640625,1.5 H 20.177734 l -1.148437,12.5 H 15.125 L 13.291016,12.253906 C 13.109725,11.66157 12.533993,11.298828 12,11.298828 c -0.533993,0 -1.109725,0.362742 -1.291016,0.955078 L 8.875,18.25 H 4.9707031 L 4.390625,11.931641 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="M 6.75,5 V 7.5 C 6.75,8.1992396 6.1992396,8.75 5.5,8.75 H 4 v 1.5 h 1.5 c 1.5098982,0 2.75,-1.2401018 2.75,-2.75 V 5 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="m 15.75,5 v 2.5 c 0,1.5098846 1.240083,2.75 2.75,2.75 h 2 v -1.5 h -2 C 17.800719,8.75 17.25,8.1992532 17.25,7.5 V 5 Z"
+     id="path6" />
+</svg>

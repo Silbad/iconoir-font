@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="pharmacy-cross-circle.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="M 10.099609,5.25 C 9.3629077,5.25 8.75,5.8629077 8.75,6.5996094 V 8.75 H 6.5996094 C 5.8629077,8.75 5.25,9.3629077 5.25,10.099609 v 3.800782 C 5.25,14.637086 5.862953,15.25 6.5996094,15.25 H 8.75 v 2.150391 C 8.75,18.137086 9.362953,18.75 10.099609,18.75 h 3.800782 C 14.63704,18.75 15.25,18.13704 15.25,17.400391 V 15.25 h 2.150391 C 18.13704,15.25 18.75,14.63704 18.75,13.900391 V 10.099609 C 18.75,9.362953 18.137086,8.75 17.400391,8.75 H 15.25 V 6.5996094 C 15.25,5.862953 14.637086,5.25 13.900391,5.25 Z M 10.25,6.75 h 3.5 V 8.9003906 C 13.75,9.637047 14.362914,10.25 15.099609,10.25 H 17.25 v 3.5 H 15.099609 C 14.36296,13.75 13.75,14.36296 13.75,15.099609 V 17.25 h -3.5 V 15.099609 C 10.25,14.362914 9.637047,13.75 8.9003906,13.75 H 6.75 v -3.5 H 8.9003906 C 9.6370923,10.25 10.25,9.6370923 10.25,8.9003906 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,1.25 C 6.0718263,1.25 1.25,6.0718263 1.25,12 1.25,17.928127 6.0718217,22.75 12,22.75 17.928132,22.75 22.75,17.928132 22.75,12 22.75,6.0718217 17.928127,1.25 12,1.25 Z m 0,1.5 c 5.117462,0 9.25,4.1324893 9.25,9.25 0,5.117457 -4.132543,9.25 -9.25,9.25 C 6.8824893,21.25 2.75,17.117462 2.75,12 2.75,6.8824848 6.8824848,2.75 12,2.75 Z"
+     id="path4" />
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="tennis-ball-alt.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 10.667969,1.3320312 C 9.2821868,1.5031786 7.9084899,1.9484309 6.625,2.6894531 1.4910488,5.6535349 -0.27464138,12.241078 2.6894531,17.375 5.6535317,22.509021 12.240989,24.274598 17.375,21.310547 22.508926,18.346483 24.274602,11.758985 21.310547,6.625 19.087501,2.7745347 14.825315,0.81858933 10.667969,1.3320312 Z m 0.191406,1.4843751 C 14.436702,2.3700897 18.090716,4.0510774 20.009766,7.375 22.568505,11.806946 21.056865,17.451035 16.625,20.009766 12.193021,22.568508 6.5470372,21.05697 3.9882813,16.625 1.4295213,12.193132 2.9431008,6.547034 7.375,3.9882813 8.4829777,3.3485909 9.6669326,2.9651784 10.859375,2.8164063 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 13.927734,1.4355469 a 0.75,0.75 0 0 0 -0.755859,0.7441406 c -0.04683,5.5065235 2.72564,10.2781945 7.873047,13.6875005 A 0.75,0.75 0 0 0 22.085937,15.65625 0.75,0.75 0 0 0 21.875,14.617188 C 17.050417,11.421699 14.629306,7.1986653 14.671875,2.1933594 A 0.75,0.75 0 0 0 13.927734,1.4355469 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 2.3398438,8.0351563 A 0.75,0.75 0 0 0 1.8867187,8.3886719 0.75,0.75 0 0 0 2.1699219,9.4101563 C 6.5259212,11.875966 8.9730258,16.083425 9.328125,21.859375 a 0.75,0.75 0 0 0 0.794922,0.703125 0.75,0.75 0 0 0 0.703125,-0.794922 C 10.447312,15.60514 7.7023478,10.818194 2.9101563,8.1054688 A 0.75,0.75 0 0 0 2.3398438,8.0351563 Z"
+     id="path6" />
+</svg>

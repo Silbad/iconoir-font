@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="pants.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 6.6347656,2.25 C 5.8702845,2.25 5.2447188,2.9124849 5.2871094,3.6757813 L 6.21875,20.474609 C 6.2580786,21.182568 6.8592656,21.75 7.5683594,21.75 H 11.400391 C 12.13704,21.75 12.75,21.13704 12.75,20.400391 V 19.75 h 3.685547 c 0.705665,0 1.303565,-0.561496 1.347656,-1.265625 L 18.708984,3.6835938 C 18.756683,2.9172607 18.129285,2.25 17.361328,2.25 Z m 0.1582031,1.5 H 17.201172 l -0.90625,14.5 H 12.75 V 8 A 0.75,0.75 0 0 0 12,7.25 0.75,0.75 0 0 0 11.25,8 v 11 1.25 H 7.7089844 Z"
+     id="path2" />
+</svg>

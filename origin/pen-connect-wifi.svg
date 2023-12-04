@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="pen-connect-wifi.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8.5117188,9.1914063 A 0.75,0.75 0 0 0 7.453125,9.2480469 l -0.00977,0.00977 a 0.75,0.75 0 0 0 0.054687,1.0605465 0.75,0.75 0 0 0 1.0585937,-0.05664 L 8.5683594,10.25 A 0.75,0.75 0 0 0 8.5117188,9.1914063 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,3.2363281 C 5.9156327,3.2363163 3.8312525,4.0806727 2.4238281,5.7695312 a 0.75,0.75 0 0 0 0.095703,1.0566407 0.75,0.75 0 0 0 1.0566406,-0.095703 c 2.1851463,-2.6220968 6.6625031,-2.6221927 8.8476561,0 a 0.75,0.75 0 0 0 1.056641,0.095703 0.75,0.75 0 0 0 0.0957,-1.0566407 C 12.168751,4.0806206 10.084367,3.23634 8,3.2363281 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 8,6.0117187 c -1.3530013,0 -2.7056123,0.5970485 -3.5996094,1.7890625 A 0.75,0.75 0 0 0 4.5507812,8.8496094 0.75,0.75 0 0 0 5.5996094,8.6992188 c 1.2120027,-1.616028 3.5887785,-1.616028 4.8007816,0 a 0.75,0.75 0 0 0 1.048828,0.1503906 0.75,0.75 0 0 0 0.15039,-1.0488282 C 10.705612,6.6087672 9.3530013,6.0117187 8,6.0117187 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 20,4.1328125 c -0.736412,0 -1.473737,0.2784042 -2.03125,0.8359375 l -1,1 -10.8027344,10.804687 c -0.2244125,0.224308 -0.3840225,0.50491 -0.4609375,0.8125 l -0.9335937,3.732422 a 0.750075,0.750075 0 0 0 0.9101562,0.910157 l 3.7324219,-0.933594 c 0.3074904,-0.07695 0.5882035,-0.236571 0.8125005,-0.460938 L 21.03125,10.03125 l 1,-1 c 1.115003,-1.1150435 1.115003,-2.9474565 0,-4.0625 C 21.473737,4.4112167 20.736412,4.1328125 20,4.1328125 Z m 0,1.4902344 c 0.349387,0 0.697864,0.1373073 0.96875,0.4082031 0.541795,0.5418148 0.541795,1.3956852 0,1.9375 L 20.5,8.4375 18.5625,6.5 19.03125,6.03125 C 19.302136,5.7603542 19.650613,5.6230469 20,5.6230469 Z M 17.5,7.5625 19.4375,9.5 9.1660156,19.773437 c -0.032023,0.03203 -0.073018,0.05535 -0.1171875,0.06641 L 6.53125,20.46875 7.1601562,17.951172 c 0.011005,-0.04401 0.034499,-0.08529 0.066406,-0.117188 z"
+     id="path8" />
+</svg>

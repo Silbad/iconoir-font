@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="pentagon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12,1.3925781 c -0.279068,0 -0.55757,0.086787 -0.792969,0.2578125 L 1.4511719,8.7382813 C 0.98042823,9.0803085 0.77915022,9.6946197 0.95898438,10.248047 l 3.72656252,11.46875 c 0.1798239,0.553373 0.7032194,0.93164 1.2851562,0.93164 H 18.029297 c 0.581946,10e-7 1.10536,-0.378146 1.285156,-0.93164 l 3.726563,-11.46875 C 23.220775,9.6946442 23.019586,9.0803027 22.548828,8.7382813 L 12.792969,1.6503906 C 12.55757,1.4793654 12.279068,1.3925781 12,1.3925781 Z m 0,1.5351563 9.580078,6.9589844 -3.660156,11.2617182 H 6.0800781 L 2.4199219,9.8867188 Z"
+     id="path2" />
+</svg>

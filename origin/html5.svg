@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="html5.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4,2.25 A 0.750075,0.750075 0 0 0 3.2539063,3.078125 L 5.03125,20.167969 a 0.750075,0.750075 0 0 0 0.5273437,0.638672 l 6.2207033,1.910156 a 0.750075,0.750075 0 0 0 0.441406,0 l 6.220703,-1.910156 A 0.750075,0.750075 0 0 0 18.96875,20.167969 L 20.746094,3.078125 A 0.750075,0.750075 0 0 0 20,2.25 Z m 0.8320312,1.5 H 19.167969 L 17.527344,19.519531 12,21.214844 6.4726562,19.519531 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 7.5,6.25 A 0.750075,0.750075 0 0 0 6.7539062,7.0820312 l 0.5,4.4999998 A 0.750075,0.750075 0 0 0 8,12.25 h 7.179688 L 14.798828,16.419922 12,17.220703 9.1953125,16.417969 8.9960938,14.425781 A 0.75,0.75 0 0 0 8.1757813,13.753906 0.75,0.75 0 0 0 7.5039062,14.574219 l 0.25,2.5 a 0.750075,0.750075 0 0 0 0.5410157,0.646484 l 3.5000001,1 a 0.750075,0.750075 0 0 0 0.410156,0 l 3.5,-1 a 0.750075,0.750075 0 0 0 0.541016,-0.652344 l 0.5,-5.5 A 0.750075,0.750075 0 0 0 16,10.75 H 8.671875 l -0.3339844,-3 H 17 A 0.75,0.75 0 0 0 17.75,7 0.75,0.75 0 0 0 17,6.25 Z"
+     id="path4" />
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="cracked-egg.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,1.25 C 9.3618654,1.25 7.2126926,3.3987388 5.6972656,5.9609375 4.1818386,8.5231362 3.25,11.588198 3.25,14 c 0,4.823623 3.9263974,8.75 8.75,8.75 4.823621,0 8.75,-3.926379 8.75,-8.75 0,-2.411801 -0.931841,-5.4768634 -2.447266,-8.0390625 C 16.78731,3.3987384 14.638143,1.25 12,1.25 Z m 0,1.5 c 1.780153,0 3.631721,1.6413833 5.011719,3.9746094 C 18.391716,9.0578354 19.25,11.993526 19.25,14 19.25,18.01297 16.01297,21.25 12,21.25 7.9870514,21.25 4.75,18.012968 4.75,14 4.75,11.993527 5.6082812,9.0578358 6.9882812,6.7246094 8.3682813,4.3913829 10.219859,2.75 12,2.75 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 9.1367188,2.84375 A 0.75,0.75 0 0 0 8.84375,3.8632813 l 2.25,4.0507812 -2.1699219,2.6054685 a 0.750075,0.750075 0 0 0 -0.033203,0.916016 l 2.5,3.5 a 0.75,0.75 0 0 0 1.044922,0.173828 0.75,0.75 0 0 0 0.173828,-1.044922 l -2.162109,-3.029297 2.128906,-2.5546872 a 0.750075,0.750075 0 0 0 0.08008,-0.8437501 l -2.5,-4.4999999 A 0.75,0.75 0 0 0 9.1367188,2.84375 Z"
+     id="path4" />
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="playstation-gamepad.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5.5625,3.25 C 4.3043607,3.25 3.1983778,4.1121352 2.8925781,5.3320312 2.0536532,8.6788256 1.307712,11.609835 0.421875,14.798828 c -0.55920788,2.013127 0.32621206,3.898909 1.8242188,4.705078 1.4980066,0.80617 3.5985034,0.404674 5.0078124,-1.568359 A 0.75,0.75 0 0 0 7.0800781,16.890625 0.75,0.75 0 0 0 6.0332031,17.064453 C 4.9425147,18.591417 3.8211844,18.648648 2.9570313,18.183594 2.0928781,17.71854 1.4777473,16.603142 1.8671875,15.201172 2.7582487,11.993372 3.5078829,9.0474446 4.3476562,5.6972656 4.4881561,5.1367835 4.9851812,4.75 5.5625,4.75 h 12.875 c 0.579294,0 1.083858,0.3885936 1.234375,0.9511719 0.40412,1.5110692 1.180334,4.3695631 2.605469,9.5000001 0.38942,1.401972 -0.225697,2.517369 -1.089844,2.982422 -0.864147,0.465053 -1.987435,0.407825 -3.078125,-1.119141 a 0.75,0.75 0 0 0 -1.044922,-0.173828 0.75,0.75 0 0 0 -0.173828,1.044922 c 1.409308,1.973031 3.509812,2.37453 5.007812,1.568359 1.498001,-0.80617 2.383398,-2.691953 1.824219,-4.705078 C 22.298394,9.6715348 21.523373,6.8186409 21.121094,5.3144531 20.797211,4.1038932 19.693804,3.25 18.4375,3.25 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,3.25 A 0.75,0.75 0 0 0 7.25,4 v 2 c 0,1.5098982 1.2401018,2.75 2.75,2.75 h 4 c 1.509917,0 2.75,-1.2401154 2.75,-2.75 V 4 A 0.75,0.75 0 0 0 16,3.25 0.75,0.75 0 0 0 15.25,4 v 2 c 0,0.6992532 -0.550719,1.25 -1.25,1.25 H 10 C 9.3007604,7.25 8.75,6.6992396 8.75,6 V 4 A 0.75,0.75 0 0 0 8,3.25 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 8,11.25 c -1.5098846,0 -2.75,1.240083 -2.75,2.75 0,1.509917 1.2401154,2.75 2.75,2.75 1.5098846,0 2.75,-1.240083 2.75,-2.75 0,-1.509917 -1.2401154,-2.75 -2.75,-2.75 z m 0,1.5 c 0.6992532,0 1.25,0.550719 1.25,1.25 0,0.699281 -0.5507468,1.25 -1.25,1.25 -0.6992532,0 -1.25,-0.550719 -1.25,-1.25 0,-0.699281 0.5507468,-1.25 1.25,-1.25 z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 16,11.25 c -1.509904,0 -2.75,1.240096 -2.75,2.75 0,1.509904 1.240096,2.75 2.75,2.75 1.509904,0 2.75,-1.240096 2.75,-2.75 0,-1.509904 -1.240096,-2.75 -2.75,-2.75 z m 0,1.5 c 0.699294,0 1.25,0.550706 1.25,1.25 0,0.699294 -0.550706,1.25 -1.25,1.25 -0.699294,0 -1.25,-0.550706 -1.25,-1.25 0,-0.699294 0.550706,-1.25 1.25,-1.25 z"
+     id="path8" />
+</svg>

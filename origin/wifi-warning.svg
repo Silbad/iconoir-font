@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="wifi-warning.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="M 12,3.25 C 8.3826235,3.25 4.9418357,4.5008057 1.7558594,6.9394531 1.1937319,7.3696773 1.1032364,8.2243354 1.53125,8.78125 l 0.011719,0.013672 0.011719,0.013672 9.4531255,11.1718752 c 0.457316,0.540401 1.289655,0.609678 1.830078,0.152343 0.05484,-0.04644 0.105966,-0.09745 0.152343,-0.152343 L 22.445312,8.8085938 c 0.4572,-0.5403796 0.36138,-1.3950256 -0.175781,-1.8476563 l -0.01367,-0.011719 -0.01367,-0.00977 C 19.056234,4.5008071 15.617339,3.25 12,3.25 Z m 0,1.5 c 3.207871,0 6.227834,1.0950708 9.142578,3.2753906 L 12,18.828125 2.8554688,8.0253906 C 5.770232,5.845072 8.7920878,4.75 12,4.75 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,7.25 A 0.75,0.75 0 0 0 11.25,8 v 2 A 0.75,0.75 0 0 0 12,10.75 0.75,0.75 0 0 0 12.75,10 V 8 A 0.75,0.75 0 0 0 12,7.25 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 11.970703,13.25 a 0.75,0.75 0 0 0 -0.517578,0.246094 l -0.0098,0.01172 a 0.75,0.75 0 0 0 0.05469,1.058593 0.75,0.75 0 0 0 1.058594,-0.05469 L 12.566406,14.5 A 0.75,0.75 0 0 0 12.511719,13.441406 0.75,0.75 0 0 0 11.970703,13.25 Z"
+     id="path6" />
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="octagon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 11.482422,0.40234375 4.1640625,3.4335938 C 3.8335066,3.5704972 3.5704972,3.8335066 3.4335938,4.1640625 L 0.40234375,11.482422 c -0.1369457,0.330558 -0.1369457,0.704598 0,1.035156 l 3.03125005,7.318359 c 0.1369168,0.330544 0.3999742,0.593569 0.7304687,0.730469 l 7.3183595,3.03125 c 0.330558,0.136946 0.704598,0.136946 1.035156,0 l 7.318359,-3.03125 c 0.330482,-0.136914 0.593555,-0.399987 0.730469,-0.730469 l 3.03125,-7.318359 c 0.136946,-0.330558 0.136946,-0.704598 0,-1.035156 L 20.566406,4.1640625 C 20.429506,3.833568 20.166481,3.5705106 19.835937,3.4335938 L 12.517578,0.40234375 c -0.330558,-0.1369457 -0.704598,-0.1369457 -1.035156,0 z M 12,1.8105469 19.203125,4.796875 22.189453,12 19.203125,19.203125 12,22.189453 4.796875,19.203125 1.8105469,12 4.796875,4.796875 Z"
+     id="path2" />
+</svg>

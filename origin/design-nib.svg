@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="design-nib.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12.185547,5.5644531 -5.3847658,2.21875 C 6.4384069,7.9324095 6.1571267,8.2317225 6.0332031,8.6035156 L 2.2421875,19.978516 C 1.9107113,20.972944 2.901547,21.997851 3.90625,21.699219 l 11.677734,-3.470703 c 0.421657,-0.125352 0.757469,-0.450141 0.896485,-0.867188 l 1.90625,-5.716797 c 0.161343,-0.483805 0.03419,-1.020502 -0.326172,-1.380859 l -4.40625,-4.404297 a 0.750075,0.750075 0 0 0 0,-0.00195 C 13.270392,5.4735838 12.687524,5.3577907 12.185547,5.5644531 Z m 0.478516,1.4257813 4.269531,4.2675786 -1.851563,5.552734 -11.3261716,3.36914 3.6796875,-11.0371089 z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 9.6601563,13.488281 a 0.75,0.75 0 0 0 -0.53125,0.21875 L 2.765625,20.070312 a 0.75,0.75 0 0 0 0,1.0625 0.75,0.75 0 0 0 1.0605469,0 l 6.3632811,-6.365234 a 0.75,0.75 0 0 0 0,-1.060547 0.75,0.75 0 0 0 -0.5292967,-0.21875 z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 17.083984,1.9472656 c -0.705355,0 -1.409511,0.2669743 -1.943359,0.8007813 L 12.3125,5.5761719 a 0.75,0.75 0 0 0 0,1.0605468 0.75,0.75 0 0 0 1.060547,0 l 2.828125,-2.8281249 c 0.494502,-0.4944646 1.273076,-0.4944646 1.767578,0 l 2.121094,2.1210937 c 0.494397,0.4944292 0.494397,1.2731489 0,1.7675781 l -2.828125,2.8281254 a 0.75,0.75 0 0 0 0,1.060547 0.75,0.75 0 0 0 1.060547,0 l 2.828125,-2.8281255 c 1.067601,-1.0676692 1.067601,-2.8210026 0,-3.8886719 L 19.029297,2.7480469 C 18.495449,2.2142399 17.789339,1.9472656 17.083984,1.9472656 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 10.720703,10.931641 c -0.577407,0 -1.1556019,0.218072 -1.5917967,0.654297 -0.8723952,0.872424 -0.8724686,2.309291 0,3.18164 0.8723897,0.872449 2.3111737,0.87242 3.1835937,0 0.872369,-0.872369 0.872296,-2.309196 0,-3.18164 -0.43621,-0.43621 -1.014389,-0.654298 -1.591797,-0.654297 z m -0.53125,1.714843 c 0.299129,-0.299149 0.763321,-0.299178 1.0625,0 0.299103,0.299155 0.29903,0.761517 0,1.060547 -0.299179,0.299179 -0.763371,0.29915 -1.0625,0 -0.2990902,-0.299049 -0.2991636,-0.761373 0,-1.060547 z"
+     id="path8" />
+  <defs
+     id="defs15">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath202">
+      <g
+         id="g206">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect204"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath208">
+      <g
+         id="g212">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect210"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath214">
+      <g
+         id="g218">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect216"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath220">
+      <g
+         id="g224">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect222"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+  </defs>
+</svg>

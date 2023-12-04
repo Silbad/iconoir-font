@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="ecology-book.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     d="M 6,2.25 C 4.4901018,2.25 3.25,3.4901018 3.25,5 V 19 A 0.75,0.75 0 0 0 4,19.75 0.75,0.75 0 0 0 4.75,19 V 5 C 4.75,4.3007604 5.3007604,3.75 6,3.75 h 13.25 v 12.964844 a 0.75,0.75 0 0 0 0.75,0.75 0.75,0.75 0 0 0 0.75,-0.75 V 3.5996094 C 20.75,2.862953 20.137086,2.25 19.400391,2.25 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 13.041016,8.2519531 A 0.75,0.75 0 0 0 12.5,8.4414063 C 10.172833,10.527435 9.2792969,13.791016 9.2792969,13.791016 a 0.75,0.75 0 0 0 0.5117187,0.929687 0.75,0.75 0 0 0 0.9296874,-0.511719 c 0,0 0.906468,-2.971622 2.779297,-4.6503902 A 0.75,0.75 0 0 0 13.558594,8.5 0.75,0.75 0 0 0 13.041016,8.2519531 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 14.978516,5.2851562 -2.984375,0.28125 C 9.8986988,5.7632928 8.3499695,7.6418614 8.5566406,9.7363281 8.7632999,11.830813 10.642869,13.380391 12.738281,13.183594 l 0.134766,-0.01172 c 2.169687,-0.203811 3.772599,-2.14963 3.558594,-4.3183594 L 16.175781,6.2734375 C 16.117085,5.678862 15.573499,5.2292601 14.978516,5.2851562 Z m -0.25586,1.53125 0.214844,2.1855469 C 15.071894,10.3639 14.094932,11.549746 12.732422,11.677734 l -0.134766,0.01367 C 11.309271,11.812409 10.175888,10.877596 10.048828,9.5898438 9.9217596,8.3020938 10.844458,7.1816 12.132813,7.0605469 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     d="M 6,16.25 A 0.75,0.75 0 0 0 5.25,17 0.75,0.75 0 0 0 6,17.75 H 20 A 0.75,0.75 0 0 0 20.75,17 0.75,0.75 0 0 0 20,16.25 Z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     d="M 6,20.25 A 0.75,0.75 0 0 0 5.25,21 0.75,0.75 0 0 0 6,21.75 H 20 A 0.75,0.75 0 0 0 20.75,21 0.75,0.75 0 0 0 20,20.25 Z"
+     id="path10" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 6,16.25 c -1.5098846,0 -2.75,1.240083 -2.75,2.75 0,1.509917 1.2401154,2.75 2.75,2.75 A 0.75,0.75 0 0 0 6.75,21 0.75,0.75 0 0 0 6,20.25 C 5.3007468,20.25 4.75,19.699281 4.75,19 4.75,18.300719 5.3007468,17.75 6,17.75 A 0.75,0.75 0 0 0 6.75,17 0.75,0.75 0 0 0 6,16.25 Z"
+     id="path12" />
+</svg>

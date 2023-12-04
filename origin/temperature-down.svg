@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="temperature-down.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 10.894531,11.257813 a 0.75,0.75 0 0 0 -0.49414,0.291015 0.75,0.75 0 0 0 0.148437,1.050781 C 11.581754,13.375494 12.25,14.604329 12.25,16 c 0,2.35606 -1.89394,4.25 -4.25,4.25 -2.3560827,0 -4.25,-1.893937 -4.25,-4.25 0,-1.395687 0.6682098,-2.62451 1.7011719,-3.400391 A 0.75,0.75 0 0 0 5.5996094,11.548828 0.75,0.75 0 0 0 4.5488281,11.400391 C 3.1528926,12.448908 2.25,14.12409 2.25,16 c 0,3.166731 2.5832482,5.75 5.75,5.75 3.166735,0 5.75,-2.583265 5.75,-5.75 0,-1.875925 -0.902956,-3.551096 -2.298828,-4.599609 a 0.75,0.75 0 0 0 -0.556641,-0.142578 z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5,2.25 A 0.750075,0.750075 0 0 0 4.25,3 v 9 A 0.75,0.75 0 0 0 5,12.75 0.75,0.75 0 0 0 5.75,12 V 3.75 h 4.5 V 12 A 0.75,0.75 0 0 0 11,12.75 0.75,0.75 0 0 0 11.75,12 V 3 A 0.750075,0.750075 0 0 0 11,2.25 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 11,2.25 A 0.75,0.75 0 0 0 10.25,3 0.75,0.75 0 0 0 11,3.75 h 2 A 0.75,0.75 0 0 0 13.75,3 0.75,0.75 0 0 0 13,2.25 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 11,5.25 A 0.75,0.75 0 0 0 10.25,6 0.75,0.75 0 0 0 11,6.75 h 2 A 0.75,0.75 0 0 0 13.75,6 0.75,0.75 0 0 0 13,5.25 Z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 11,8.25 A 0.75,0.75 0 0 0 10.25,9 0.75,0.75 0 0 0 11,9.75 h 2 A 0.75,0.75 0 0 0 13.75,9 0.75,0.75 0 0 0 13,8.25 Z"
+     id="path10" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,5.25 A 0.75,0.75 0 0 0 7.25,6 v 7.5625 c -1.1049148,0.357336 -2,1.219254 -2,2.4375 0,1.509917 1.2401154,2.75 2.75,2.75 1.5098846,0 2.75,-1.240083 2.75,-2.75 0,-1.218246 -0.8950852,-2.080164 -2,-2.4375 V 6 A 0.75,0.75 0 0 0 8,5.25 Z m 0,9.5 c 0.6992532,0 1.25,0.550719 1.25,1.25 0,0.699281 -0.5507468,1.25 -1.25,1.25 -0.6992532,0 -1.25,-0.550719 -1.25,-1.25 0,-0.699281 0.5507468,-1.25 1.25,-1.25 z"
+     id="path12" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 19,5.25 A 0.75,0.75 0 0 0 18.25,6 v 10.1875 l -1.21875,-1.21875 a 0.75,0.75 0 0 0 -1.0625,0 0.75,0.75 0 0 0 0,1.0625 l 2.5,2.5 a 0.75,0.75 0 0 0 1.0625,0 l 2.5,-2.5 a 0.75,0.75 0 0 0 0,-1.0625 0.75,0.75 0 0 0 -1.0625,0 L 19.75,16.1875 V 6 A 0.75,0.75 0 0 0 19,5.25 Z"
+     id="path14" />
+</svg>

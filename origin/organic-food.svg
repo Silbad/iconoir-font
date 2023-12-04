@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="organic-food.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 11.972656,11.25 a 0.75,0.75 0 0 0 -0.521484,0.240234 c -2.3084281,2.48299 -3.1796876,6.333985 -3.1796876,6.333985 a 0.75,0.75 0 0 0 0.5527344,0.904297 0.75,0.75 0 0 0 0.9042968,-0.552735 c 0,0 0.9287444,-3.631409 2.8203124,-5.666015 A 0.75,0.75 0 0 0 12.509766,11.451172 0.75,0.75 0 0 0 11.972656,11.25 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 15.556641,6.0371094 -4.146485,0.3984375 c -2.8791457,0.2772164 -5.0018384,2.85331 -4.7246091,5.7324221 0.2780534,2.887613 2.8962797,4.997956 5.7753911,4.720703 2.926571,-0.281743 5.128386,-2.895057 4.845703,-5.830078 l -0.375,-3.8886721 c -0.06587,-0.6837485 -0.691288,-1.198647 -1.375,-1.1328125 z m -0.09375,1.515625 0.351562,3.6503906 c 0.203316,2.110974 -1.378424,3.989302 -3.498047,4.193359 C 10.244242,15.59603 8.3764404,14.08702 8.1777344,12.023438 7.9782041,9.9512543 9.4824584,8.1272574 11.554688,7.9277344 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,1.25 C 6.0718263,1.25 1.25,6.0718263 1.25,12 1.25,17.928127 6.0718217,22.75 12,22.75 17.928132,22.75 22.75,17.928132 22.75,12 22.75,6.0718217 17.928127,1.25 12,1.25 Z m 0,1.5 c 5.117462,0 9.25,4.1324893 9.25,9.25 0,5.117457 -4.132543,9.25 -9.25,9.25 C 6.8824893,21.25 2.75,17.117462 2.75,12 2.75,6.8824848 6.8824848,2.75 12,2.75 Z"
+     id="path6" />
+</svg>

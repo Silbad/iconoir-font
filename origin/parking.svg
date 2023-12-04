@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="parking.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 10,7.75 A 0.750075,0.750075 0 0 0 9.25,8.5 V 12.699219 15.5 A 0.75,0.75 0 0 0 10,16.25 0.75,0.75 0 0 0 10.75,15.5 v -2.050781 h 2.107422 c 0.35715,0 1.046326,0.03014 1.71875,-0.365235 C 15.248595,12.688607 15.75,11.81968 15.75,10.599609 15.75,9.3795392 15.248595,8.5106115 14.576172,8.1152344 13.903748,7.7198572 13.214572,7.75 12.857422,7.75 Z m 0.75,1.5 h 2.107422 c 0.35715,0 0.738534,0.028581 0.958984,0.1582031 C 14.036857,9.5378255 14.25,9.7196817 14.25,10.599609 c 0,0.879928 -0.213143,1.061784 -0.433594,1.191407 -0.22045,0.129622 -0.601834,0.158203 -0.958984,0.158203 H 10.75 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="M 12,1.25 C 6.0718283,1.25 1.25,6.0718283 1.25,12 1.25,17.928172 6.0718283,22.75 12,22.75 17.928172,22.75 22.75,17.928172 22.75,12 22.75,6.0718283 17.928172,1.25 12,1.25 Z m 0,1.5 c 5.117512,0 9.25,4.1324877 9.25,9.25 0,5.117512 -4.132488,9.25 -9.25,9.25 C 6.8824877,21.25 2.75,17.117512 2.75,12 2.75,6.8824877 6.8824877,2.75 12,2.75 Z"
+     id="circle4" />
+</svg>

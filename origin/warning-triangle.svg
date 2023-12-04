@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="warning-triangle.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     d="m 12,2.2851563 c -0.932179,2.8e-6 -1.865145,0.4517675 -2.3847656,1.3554687 L 1.5722656,17.628906 C 0.53601341,19.431055 1.8781816,21.75 3.9570313,21.75 H 20.042969 c 2.078895,0 3.420936,-2.318946 2.384765,-4.121094 L 14.384766,3.640625 C 13.865144,2.7369224 12.932179,2.2851534 12,2.2851563 Z m 0,1.453125 c 0.41712,-2.2e-6 0.834607,0.2166845 1.083984,0.6503906 L 21.126953,18.376953 C 21.623981,19.241403 21.040271,20.25 20.042969,20.25 H 3.9570313 c -0.9972074,0 -1.5810507,-1.008598 -1.0839844,-1.873047 L 10.916016,4.3886719 C 11.165394,3.9549644 11.58288,3.7382834 12,3.7382813 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     d="M 12,8.25 A 0.75,0.75 0 0 0 11.25,9 v 4 A 0.75,0.75 0 0 0 12,13.75 0.75,0.75 0 0 0 12.75,13 V 9 A 0.75,0.75 0 0 0 12,8.25 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 11.970703,16.25 a 0.75,0.75 0 0 0 -0.517578,0.246094 l -0.0098,0.01172 a 0.75,0.75 0 0 0 0.05469,1.058594 0.75,0.75 0 0 0 1.058594,-0.05469 L 12.566406,17.5 A 0.75,0.75 0 0 0 12.511719,16.441406 0.75,0.75 0 0 0 11.970703,16.25 Z"
+     id="path6" />
+</svg>

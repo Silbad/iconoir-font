@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="half-moon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 7.9394531,2.328125 C 4.5656475,4.0047636 2.25,7.4902526 2.25,11.505859 2.25,17.154281 6.84576,21.75 12.494141,21.75 c 4.015651,0 7.501135,-2.315641 9.177734,-5.689453 A 0.750075,0.750075 0 0 0 21,14.976563 c -4.129295,-1e-6 -7.082778,-1.012464 -9.023437,-2.953125 C 10.035903,10.082776 9.0234375,7.1292954 9.0234375,3 A 0.750075,0.750075 0 0 0 7.9394531,2.328125 Z M 7.7070312,4.2851562 c 0.216501,3.7027722 1.1666863,6.7565278 3.2089848,8.7988278 2.042298,2.042301 5.096056,2.992483 8.798828,3.208985 C 18.149704,18.648508 15.541033,20.25 12.494141,20.25 7.6564117,20.25 3.75,16.343628 3.75,11.505859 3.75,8.4590158 5.3514852,5.8503262 7.7070312,4.2851562 Z"
+     id="path2" />
+</svg>

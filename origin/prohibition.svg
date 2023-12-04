@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="prohibition.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,1.25 C 6.0718263,1.25 1.25,6.0718263 1.25,12 c 0,2.925519 1.1722429,5.587169 3.0722656,7.525391 C 6.27246,21.514784 8.9973145,22.75 12,22.75 17.928132,22.75 22.75,17.928132 22.75,12 22.75,9.0745309 21.577832,6.4127996 19.677734,4.4746094 17.727565,2.4852621 15.002702,1.25 12,1.25 Z m 0,1.5 c 2.31677,0 4.355074,0.9402421 5.976562,2.34375 L 4.9726562,17.839844 C 3.6403934,16.237579 2.75,14.250492 2.75,12 2.75,6.8824848 6.8824848,2.75 12,2.75 Z m 7.027344,3.4101562 C 20.359622,7.76239 21.25,9.7495528 21.25,12 c 0,5.117457 -4.132543,9.25 -9.25,9.25 -2.3167667,0 -4.3550605,-0.940224 -5.9765625,-2.34375 z"
+     id="path2" />
+</svg>

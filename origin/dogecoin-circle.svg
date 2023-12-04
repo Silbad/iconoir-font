@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="dogecoin-circle.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="M 10.587891,6.2441406 C 9.8580939,6.25456 9.25,6.8620583 9.25,7.5976562 v 8.8046878 c 0,0.735615 0.6079803,1.34316 1.337891,1.353515 1.246582,0.01777 2.846619,0.07412 4.248047,-0.673828 C 16.237365,16.334085 17.25,14.707018 17.25,12 17.25,9.2929816 16.237375,7.6658654 14.835938,6.9179687 13.4345,6.1700721 11.834463,6.2263539 10.587891,6.2441406 Z M 10.75,7.7480469 c 1.204626,-0.013758 2.489223,0.016353 3.380859,0.4921875 C 15.05712,8.7345465 15.75,9.6287235 15.75,12 c 0,2.371276 -0.692871,3.265413 -1.619141,3.759766 -0.891645,0.475873 -2.176243,0.505924 -3.380859,0.492187 z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,11.25 A 0.75,0.75 0 0 0 7.25,12 0.75,0.75 0 0 0 8,12.75 h 4 A 0.75,0.75 0 0 0 12.75,12 0.75,0.75 0 0 0 12,11.25 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,1.25 C 6.0718263,1.25 1.25,6.0718263 1.25,12 1.25,17.928127 6.0718217,22.75 12,22.75 17.928132,22.75 22.75,17.928132 22.75,12 22.75,6.0718217 17.928127,1.25 12,1.25 Z m 0,1.5 c 5.117462,0 9.25,4.1324893 9.25,9.25 0,5.117457 -4.132543,9.25 -9.25,9.25 C 6.8824893,21.25 2.75,17.117462 2.75,12 2.75,6.8824848 6.8824848,2.75 12,2.75 Z"
+     id="path6" />
+</svg>

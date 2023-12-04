@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="cutlery.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 9,14.25 A 0.75,0.75 0 0 0 8.25,15 v 4.25 H 6 A 0.75,0.75 0 0 0 5.25,20 0.75,0.75 0 0 0 6,20.75 h 3 3 A 0.75,0.75 0 0 0 12.75,20 0.75,0.75 0 0 0 12,19.25 H 9.75 V 15 A 0.75,0.75 0 0 0 9,14.25 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 19.5,3.75 A 0.75,0.75 0 0 0 18.75,4.5 V 9 c 0,0.6874993 -0.438978,1.240245 -0.96875,1.664063 -0.529772,0.423817 -1.060547,0.638671 -1.060547,0.638671 A 0.750075,0.750075 0 0 0 16.25,12 v 8 A 0.75,0.75 0 0 0 17,20.75 0.75,0.75 0 0 0 17.75,20 v -7.583984 c 0.264999,-0.12572 0.483949,-0.192237 0.96875,-0.580078 C 19.438977,11.259756 20.25,10.312499 20.25,9 V 4.5 A 0.75,0.75 0 0 0 19.5,3.75 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 17,3.75 A 0.75,0.75 0 0 0 16.25,4.5 v 4 A 0.75,0.75 0 0 0 17,9.25 0.75,0.75 0 0 0 17.75,8.5 v -4 A 0.75,0.75 0 0 0 17,3.75 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4.5,3.75 A 0.750075,0.750075 0 0 0 3.7734375,4.3125 c 0,0 -0.2828025,1.1018445 -0.4238281,2.5 -0.1410257,1.3981555 -0.1848345,3.1107469 0.4707031,4.505859 0.6072,1.292286 1.815668,2.316491 2.8613281,3.083985 1.0456601,0.767494 1.9648438,1.259765 1.9648438,1.259765 a 0.750075,0.750075 0 0 0 0.7070312,0 c 0,0 0.9191784,-0.492271 1.9648434,-1.259765 1.045666,-0.767494 2.254138,-1.791692 2.861329,-3.083985 0.655524,-1.39511 0.611726,-3.1077046 0.470703,-4.505859 -0.141023,-1.3981544 -0.423828,-2.5 -0.423828,-2.5 A 0.750075,0.750075 0 0 0 13.5,3.75 Z m 0.6308594,1.5 h 7.7382816 c 0.07771,0.3388903 0.192069,0.7512667 0.289062,1.7128906 0.128852,1.2774855 0.08608,2.8164327 -0.33789,3.7187504 -0.392709,0.835805 -1.43431,1.811239 -2.388672,2.511718 C 9.6662495,13.755138 9.2415754,13.97602 9,14.111328 8.7584266,13.976021 8.333747,13.755139 7.5683594,13.193359 6.6140015,12.49288 5.5724065,11.517453 5.1796875,10.681641 4.7557062,9.7793254 4.7129428,8.240375 4.8417969,6.9628906 4.9387915,6.0012676 5.0531509,5.58889 5.1308594,5.25 Z"
+     id="path8" />
+</svg>

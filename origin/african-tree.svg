@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="african-tree.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,7.25 A 0.75,0.75 0 0 0 11.25,8 v 4 10 A 0.75,0.75 0 0 0 12,22.75 0.75,0.75 0 0 0 12.75,22 v -9.6875 l 2.78125,-2.78125 a 0.75,0.75 0 0 0 0,-1.0625 0.75,0.75 0 0 0 -1.0625,0 L 12.75,10.1875 V 8 A 0.75,0.75 0 0 0 12,7.25 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,1.3398437 C 9.6906697,1.3398463 7.3810576,2.0870866 5.4589844,3.5820313 2.5007301,5.8828957 2.2269092,10.287524 4.8769531,12.9375 l 6.1679689,6.167969 c 0.52093,0.520929 1.389226,0.520929 1.910156,0 L 19.123047,12.9375 C 21.773,10.287434 21.499226,5.8828851 18.541016,3.5820313 16.618951,2.087085 14.30933,1.3398412 12,1.3398437 Z m 0,1.4960938 c 1.98279,-2.4e-6 3.964909,0.6430566 5.619141,1.9296875 2.266384,1.762762 2.473601,5.0809991 0.443359,7.111328 L 12,17.939453 5.9375,11.876953 C 3.9072286,9.8467338 4.1144389,6.5283965 6.3808594,4.765625 8.0351026,3.4789924 10.01721,2.8359399 12,2.8359375 Z"
+     id="path4" />
+  <defs
+     id="defs11">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath196">
+      <g
+         id="g200">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect198"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath202">
+      <g
+         id="g206">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect204"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+  </defs>
+</svg>

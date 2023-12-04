@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="one-finger-select-hand-gesture.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 19.5,8.6777344 a 0.75,0.75 0 0 0 -0.75,0.75 V 18 c 0,1.599998 -1.266669,3.25 -3.25,3.25 h -4.621094 c -0.350735,0 -0.682521,-0.147297 -0.9199216,-0.40625 L 6.1738281,16.716797 C 5.764098,16.269788 5.7318794,15.608179 6.0957031,15.123047 l 2.0039063,-2.673828 a 0.75,0.75 0 0 0 -0.1503907,-1.048828 0.75,0.75 0 0 0 -1.0488281,0.15039 l -2.0039062,2.671875 c -0.7910952,1.054867 -0.7190536,2.535823 0.171875,3.507813 l 3.7851562,4.126953 C 9.3737345,22.424868 10.108443,22.75 10.878906,22.75 H 15.5 c 2.816664,0 4.75,-2.350002 4.75,-4.75 V 9.4277344 a 0.75,0.75 0 0 0 -0.75,-0.75 z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 18,6.9648437 c -1.130952,10e-8 -2.25,0.991908 -2.25,2.4628907 V 10 A 0.75,0.75 0 0 0 16.5,10.75 0.75,0.75 0 0 0 17.25,10 V 9.4277344 c 0,-0.814735 0.380954,-0.9628906 0.75,-0.9628906 0.369046,0 0.75,0.1481556 0.75,0.9628906 A 0.75,0.75 0 0 0 19.5,10.177734 0.75,0.75 0 0 0 20.25,9.4277344 C 20.25,7.9567517 19.130952,6.9648438 18,6.9648437 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 15,5.8222656 c -1.130952,0 -2.25,0.9919079 -2.25,2.4628907 V 10 A 0.75,0.75 0 0 0 13.5,10.75 0.75,0.75 0 0 0 14.25,10 V 8.2851563 c 0,-0.8147351 0.380954,-0.9628907 0.75,-0.9628907 0.369046,0 0.75,0.1481556 0.75,0.9628907 V 9.4277344 10 A 0.75,0.75 0 0 0 16.5,10.75 0.75,0.75 0 0 0 17.25,10 V 9.4277344 8.2851563 C 17.25,6.8141735 16.130952,5.8222656 15,5.8222656 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 12,5.0351562 C 10.869049,5.0351562 9.75,6.0290209 9.75,7.5 V 10 A 0.75,0.75 0 0 0 10.5,10.75 0.75,0.75 0 0 0 11.25,10 V 7.5 c 0,-0.8147286 0.380952,-0.9648438 0.75,-0.9648438 0.369048,0 0.75,0.1501152 0.75,0.9648438 V 8.2851563 10 A 0.75,0.75 0 0 0 13.5,10.75 0.75,0.75 0 0 0 14.25,10 V 8.2851563 7.5 C 14.25,6.0290209 13.130951,5.0351562 12,5.0351562 Z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 9,1.25 C 7.7662443,1.25 6.75,2.2662443 6.75,3.5 V 12 15 A 0.75,0.75 0 0 0 7.5,15.75 0.75,0.75 0 0 0 8.25,15 V 12 3.5 C 8.25,3.0768974 8.5768974,2.75 9,2.75 c 0.4237122,0 0.75,0.3249442 0.75,0.7480469 V 7.5 10 A 0.75,0.75 0 0 0 10.5,10.75 0.75,0.75 0 0 0 11.25,10 V 7.5 3.4980469 C 11.25,2.2642912 10.233146,1.25 9,1.25 Z"
+     id="path10" />
+</svg>

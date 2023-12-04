@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   stroke-width="1.5"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="quote.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     d="M 5,5.75 C 4.0423831,5.75 3.25,6.5423831 3.25,7.5 V 11 c 0,0.957622 0.7924012,1.75 1.75,1.75 h 4.0449219 c -0.090937,0.70635 -0.1522378,1.41157 -0.5292969,1.939453 -0.5228901,0.732046 -1.4111924,1.42044 -2.8515625,2.140625 a 0.75,0.75 0 0 0 -0.3339844,1.005859 0.75,0.75 0 0 0 1.0058594,0.333985 C 7.8955644,17.390108 9.0072663,16.578499 9.734375,15.560547 10.318311,14.743036 10.562517,13.783952 10.658203,12.75 H 10.75 V 12 7.5 C 10.75,6.5423831 9.9576169,5.75 9,5.75 Z m 0,1.5 h 4 c 0.146942,0 0.25,0.103058 0.25,0.25 v 3.75 H 5 C 4.8530399,11.25 4.75,11.146977 4.75,11 V 7.5 C 4.75,7.353058 4.853058,7.25 5,7.25 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"
+     d="m 15,5.75 c -0.957622,0 -1.75,0.7924012 -1.75,1.75 V 11 c 0,0.957604 0.792396,1.75 1.75,1.75 h 4.044922 c -0.09094,0.70635 -0.152238,1.41157 -0.529297,1.939453 -0.52289,0.732046 -1.411192,1.42044 -2.851562,2.140625 a 0.75,0.75 0 0 0 -0.333985,1.005859 0.75,0.75 0 0 0 1.005859,0.333985 c 1.559627,-0.779814 2.671329,-1.591423 3.398438,-2.609375 0.583936,-0.817511 0.828142,-1.776595 0.923828,-2.810547 H 20.75 V 12 7.5 C 20.75,6.5424012 19.957622,5.75 19,5.75 Z m 0,1.5 h 4 c 0.146977,0 0.25,0.1030399 0.25,0.25 v 3.75 H 15 c -0.146995,0 -0.25,-0.103005 -0.25,-0.25 V 7.5 c 0,-0.1469601 0.103023,-0.25 0.25,-0.25 z"
+     id="path4" />
+</svg>

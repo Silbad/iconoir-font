@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="constrained-surface.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 3,18.25 c -1.5098846,0 -2.75,1.240083 -2.75,2.75 0,1.509917 1.2401154,2.75 2.75,2.75 1.5098846,0 2.75,-1.240083 2.75,-2.75 0,-1.509917 -1.2401154,-2.75 -2.75,-2.75 z m 0,1.5 c 0.6992532,0 1.25,0.550719 1.25,1.25 0,0.699281 -0.5507468,1.25 -1.25,1.25 -0.6992532,0 -1.25,-0.550719 -1.25,-1.25 0,-0.699281 0.5507468,-1.25 1.25,-1.25 z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 21,18.25 c -1.509904,0 -2.75,1.240096 -2.75,2.75 0,1.509904 1.240096,2.75 2.75,2.75 1.509904,0 2.75,-1.240096 2.75,-2.75 0,-1.509904 -1.240096,-2.75 -2.75,-2.75 z m 0,1.5 c 0.699294,0 1.25,0.550706 1.25,1.25 0,0.699294 -0.550706,1.25 -1.25,1.25 -0.699294,0 -1.25,-0.550706 -1.25,-1.25 0,-0.699294 0.550706,-1.25 1.25,-1.25 z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 3,0.25 C 1.4901018,0.25 0.25,1.4901018 0.25,3 0.25,4.5098982 1.4901018,5.75 3,5.75 4.5098982,5.75 5.75,4.5098982 5.75,3 5.75,1.4901018 4.5098982,0.25 3,0.25 Z m 0,1.5 C 3.6992396,1.75 4.25,2.3007604 4.25,3 4.25,3.6992396 3.6992396,4.25 3,4.25 2.3007604,4.25 1.75,3.6992396 1.75,3 1.75,2.3007604 2.3007604,1.75 3,1.75 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 21,0.25 c -1.509917,0 -2.75,1.2401154 -2.75,2.75 0,1.5098846 1.240083,2.75 2.75,2.75 1.509917,0 2.75,-1.2401154 2.75,-2.75 0,-1.5098846 -1.240083,-2.75 -2.75,-2.75 z m 0,1.5 c 0.699281,0 1.25,0.5507468 1.25,1.25 0,0.6992532 -0.550719,1.25 -1.25,1.25 -0.699281,0 -1.25,-0.5507468 -1.25,-1.25 0,-0.6992532 0.550719,-1.25 1.25,-1.25 z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 9.5722656,8.75 C 7.7580421,8.75 6.25,10.202373 6.25,12 c 0,1.548963 1.1148346,2.84482 2.5878906,3.169922 0.2407134,0.05297 0.4878199,0.08021 0.734375,0.08008 A 0.75,0.75 0 0 0 10.322266,14.5 0.75,0.75 0 0 0 9.5703125,13.75 C 9.432508,13.750072 9.2967756,13.734711 9.1621094,13.705078 8.3451677,13.52478 7.75,12.830235 7.75,12 c 0,-0.96357 0.796492,-1.75 1.8222656,-1.75 H 10.427734 C 11.397138,10.25 12.25,11.218065 12.25,12 A 0.75,0.75 0 0 0 13,12.75 0.75,0.75 0 0 0 13.75,12 c 0,-1.711262 -1.465672,-3.25 -3.322266,-3.25 z"
+     id="path10" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 14.427734,8.75 a 0.75,0.75 0 0 0 -0.75,0.75 0.75,0.75 0 0 0 0.751954,0.75 c 0.13783,-7.2e-5 0.273573,0.01528 0.408203,0.04492 C 15.654337,10.474704 16.25,11.169114 16.25,12 c 0,0.96357 -0.796316,1.75 -1.822266,1.75 H 13.572266 C 12.602862,13.75 11.75,12.781249 11.75,12 A 0.75,0.75 0 0 0 11,11.25 0.75,0.75 0 0 0 10.25,12 c 0,1.710949 1.465672,3.25 3.322266,3.25 h 0.855468 C 16.241782,15.25 17.75,13.797627 17.75,12 17.75,10.450688 16.635661,9.1545555 15.162109,8.8300781 14.92134,8.7770626 14.674304,8.7498717 14.427734,8.75 Z"
+     id="path12" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 21,4.25 A 0.75,0.75 0 0 0 20.25,5 V 19 A 0.75,0.75 0 0 0 21,19.75 0.75,0.75 0 0 0 21.75,19 V 5 A 0.75,0.75 0 0 0 21,4.25 Z"
+     id="path14" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 3,4.25 A 0.75,0.75 0 0 0 2.25,5 V 19 A 0.75,0.75 0 0 0 3,19.75 0.75,0.75 0 0 0 3.75,19 V 5 A 0.75,0.75 0 0 0 3,4.25 Z"
+     id="path16" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5,2.25 A 0.75,0.75 0 0 0 4.25,3 0.75,0.75 0 0 0 5,3.75 H 19 A 0.75,0.75 0 0 0 19.75,3 0.75,0.75 0 0 0 19,2.25 Z"
+     id="path18" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5,20.25 A 0.75,0.75 0 0 0 4.25,21 0.75,0.75 0 0 0 5,21.75 H 19 A 0.75,0.75 0 0 0 19.75,21 0.75,0.75 0 0 0 19,20.25 Z"
+     id="path20" />
+  <defs
+     id="defs27">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath274">
+      <g
+         id="g278">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect276"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath280">
+      <g
+         id="g284">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect282"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath286">
+      <g
+         id="g290">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect288"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath292">
+      <g
+         id="g296">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect294"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath298">
+      <g
+         id="g302">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect300"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath304">
+      <g
+         id="g308">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect306"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath310">
+      <g
+         id="g314">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect312"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath316">
+      <g
+         id="g320">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect318"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath322">
+      <g
+         id="g326">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect324"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath328">
+      <g
+         id="g332">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect330"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+  </defs>
+</svg>

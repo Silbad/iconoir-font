@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="apple-shortcuts.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34.541667"
+     inkscape:cx="10.364294"
+     inkscape:cy="12.014475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="m 12,1.9921875 c -0.886459,0 -1.773554,0.2476047 -2.5507812,0.7421875 L 3.2480469,6.6796875 c -1.6732937,1.0648109 -1.6732985,3.5758245 0,4.6406255 l 6.2011719,3.945312 c 1.5544542,0.989166 3.5471082,0.989166 5.1015622,0 l 6.201172,-3.945312 c 1.673303,-1.06479 1.673289,-3.5758041 0,-4.6406255 L 14.550781,2.734375 C 13.773554,2.2397922 12.886459,1.9921875 12,1.9921875 Z m 0,1.4980469 c 0.60589,0 1.211069,0.1705493 1.744141,0.5097656 l 6.201171,3.9453125 c 0.796709,0.506997 0.796695,1.6024065 0,2.1093755 L 13.744141,14 c -1.066144,0.678433 -2.422138,0.678433 -3.488282,0 L 4.0546875,10.054688 c -0.7966991,-0.5069785 -0.7967039,-1.602388 0,-2.1093755 L 10.255859,4 C 10.788931,3.6607837 11.39411,3.4902344 12,3.4902344 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:currentColor;-inkscape-stroke:none"
+     d="m 5.3125,11.367188 -2.0644531,1.3125 c -1.6732864,1.064806 -1.6732864,3.575818 0,4.640624 l 6.2011719,3.945313 c 1.5544542,0.989166 3.5471082,0.989166 5.1015622,0 l 6.201172,-3.945313 c 1.673286,-1.064806 1.673286,-3.575818 0,-4.640624 l -2.064453,-1.3125 -0.804688,1.265625 2.0625,1.3125 c 0.796712,0.506992 0.796712,1.602382 0,2.109374 L 13.744141,20 c -1.066144,0.678433 -2.422138,0.678433 -3.488282,0 L 4.0546875,16.054687 c -0.7967112,-0.506992 -0.7967112,-1.602382 0,-2.109374 l 2.0625,-1.3125 z"
+     id="path4" />
+  <defs
+     id="defs11">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath196">
+      <g
+         id="g200">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect198"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath202">
+      <g
+         id="g206">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect204"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+  </defs>
+</svg>
