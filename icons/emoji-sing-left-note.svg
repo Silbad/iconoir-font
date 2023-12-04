@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke-width="1.5" viewBox="0 0 24 24">
+    <circle cx="15.5" cy="8.5" r="1.25" style="fill:#000;stroke-width:2.27213;stroke-linecap:round;stroke-linejoin:round"/>
+    <circle cx="8.5" cy="8.5" r="1.25" style="fill:#000;stroke-width:2.27213;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M8 12.25c-1.51 0-2.75 1.24-2.75 2.75S6.49 17.75 8 17.75s2.75-1.24 2.75-2.75S9.51 12.25 8 12.25m0 1.5c.7 0 1.25.55 1.25 1.25S8.7 16.25 8 16.25 6.75 15.7 6.75 15 7.3 13.75 8 13.75" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <path d="M12 1.25c-1.527 0-2.983.319-4.3.895a.75.75 0 0 0-.388.988.75.75 0 0 0 .989.387A9.209 9.209 0 0 1 12 2.75 9.239 9.239 0 0 1 21.25 12 9.239 9.239 0 0 1 12 21.25a9.244 9.244 0 0 1-9.205-8.324.75.75 0 0 0-.82-.672.75.75 0 0 0-.672.82C1.842 18.505 6.434 22.75 12 22.75c5.928 0 10.75-4.822 10.75-10.75S17.928 1.25 12 1.25" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <path d="M3.4 2.25A1.36 1.36 0 0 0 2.05 3.6v2.857A1.66 1.66 0 0 0 .25 8.1c0 .903.75 1.65 1.65 1.65.713 0 1.649-.572 1.65-1.65V3.75H5a.75.75 0 1 0 0-1.5Z" style="color:#000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"/>
+</svg>

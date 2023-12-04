@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke-width="1.5" viewBox="0 0 24 24">
+    <path d="M5 2.25C3.49 2.25 2.25 3.49 2.25 5v14c0 1.51 1.24 2.75 2.75 2.75h14c1.51 0 2.75-1.24 2.75-2.75V5c0-1.51-1.24-2.75-2.75-2.75Zm0 1.5h14c.7 0 1.25.55 1.25 1.25v14c0 .7-.55 1.25-1.25 1.25H5c-.7 0-1.25-.55-1.25-1.25V5c0-.7.55-1.25 1.25-1.25" style="color:#000;fill:currentColor;-inkscape-stroke:none"/>
+    <path d="m16.47 11.25-4 .16a.75.75 0 0 0-.72.781.75.75 0 0 0 .78.72l3.128-.126-.404 3.633a.75.75 0 0 0 .664.828.75.75 0 0 0 .828-.664l.5-4.5a.75.75 0 0 0-.775-.832" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <path d="M11.209 7.35a.75.75 0 0 0-.984.21L8.893 9.407a.75.75 0 0 0 .168 1.05.75.75 0 0 0 1.046-.17l.938-1.298 1.383.797-1.215 1.795a.75.75 0 0 0 .2 1.041.75.75 0 0 0 1.042-.201l1.666-2.461a.75.75 0 0 0-.246-1.07Z" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <circle cx="15.5" cy="7" r="1.25" style="fill:#000;stroke-width:2.27213;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M10.5 11.25A3.761 3.761 0 0 0 6.75 15a3.761 3.761 0 0 0 3.75 3.75A3.761 3.761 0 0 0 14.25 15a3.761 3.761 0 0 0-3.75-3.75m0 1.5c1.252 0 2.25.998 2.25 2.25s-.998 2.25-2.25 2.25A2.239 2.239 0 0 1 8.25 15c0-1.252.998-2.25 2.25-2.25" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+</svg>

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ name }}</title>
+
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 10px 20px;
+        }
+
+        h1 {
+            text-align: center;
+            text-transform: capitalize;
+        }
+
+        .d-flex {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+
+        .preview {
+            width: 100px;
+            display: flex;
+            flex-direction: column;
+            margin: 10px;
+            border-radius: 3px;
+            box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.8);
+        }
+
+        a,
+        .preview:hover .inner,
+        .preview:hover .label {
+            color: #0d6efd;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+
+        .preview .inner {
+            width: 100%;
+            text-align: center;
+            border-radius: 3px 3px 0 0;
+            cursor: pointer;
+            line-height: 85px;
+            color: #000;
+        }
+
+        .label {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 5px;
+            font-size: 0.7rem;
+            font-family: Monaco, monospace;
+            color: #000;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            background: #DDD;
+            text-align: center;
+            border-radius: 0 0 3px 3px;
+            cursor: pointer;
+            transition: all .3s linear;
+        }
+
+        code {
+            background: #DDD;
+            border-radius: 3px;
+            padding: 5px;
+            margin-left: 10px;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 0.8rem;
+            margin: 5px;
+        }
+
+        hr {
+            height: 1px;
+            margin: 45px 0;
+            padding: 0;
+            color: #DDD;
+            background-color: #DDD;
+            border: 0;
+        }
+    </style>
+
+    <script>
+        document.addEventListener('click', function (event) {
+            if (!event.target.matches('.inner,.inner i,.label')) return;
+            event.preventDefault();
+            const icon = event.target.closest('.preview').getAttribute('data-key');
+            navigator.clipboard.writeText(icon).then(function () {
+                document.querySelectorAll('.label').forEach(function (el) {
+                    el.innerHTML = el.getAttribute('data-text');
+                    el.style.backgroundColor = '#ddd';
+                });
+                event.target.closest('.preview').querySelector('.label').innerHTML = 'Copied!';
+                event.target.closest('.preview').querySelector('.label').style.backgroundColor = '#DDFBBF';
+                setTimeout(function () {
+                    event.target.closest('.preview').querySelector('.label').innerHTML = event.target.closest('.preview').querySelector('.label').getAttribute('data-text');
+                    event.target.closest('.preview').querySelector('.label').style.backgroundColor = '#DDD';
+                }, 3000);
+            });
+        }, false);
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="icon" href="favicon.ico" />
+</head>
+
+<body>
+
+    <h1>{{ name }}</h1>
+
+    <h2># Icons</h2>
+    <div class="d-flex">
+        {{# each assets }}
+
+        <div class="preview" data-key="{{ ../prefix }} {{ ../prefix }}-{{ @key }}">
+            <span class="inner" title="{{ @key }}">
+                <{{ ../tag }} class="{{ ../prefix }} {{ ../prefix }}-{{ @key }} {{ ../prefix }}-2x"></{{ ../tag }}>
+            </span>
+            <br>
+            <span class="label" data-text="{{ @key }}" title="{{ @key }}">{{ @key }}</span>
+        </div>
+
+        {{/ each }}
+    </div>
+
+    <hr />
+
+    <h2># Sizing</h2>
+    <div class="d-size">
+        <h3>1x</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile"></{{ tag }}>
+        </p>
+        <h3>2x</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-2x"></{{ tag }}>
+            <code>Add class "{{ prefix }}-2x"</code>
+        </p>
+        <h3>3x</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-3x"></{{ tag }}>
+            <code>Add class "{{ prefix }}-3x"</code>
+        </p>
+        <h3>4x</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-4x"></{{ tag }}>
+            <code>Add class "{{ prefix }}-4x"</code>
+        </p>
+        <h3>5x</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-5x"></{{ tag }}>
+            <code>Add class "{{ prefix }}-5x"</code>
+        </p>
+    </div>
+
+    <hr />
+
+    <h2># Flip</h2>
+    <div class="d-size">
+        <h3>Horizontal</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-4x"></{{ tag }}>
+        </p>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-4x {{ prefix }}-flip-horizontal"></{{
+                tag }}>
+            <code>Add class "{{ prefix }}-flip-horizontal"</code>
+        </p>
+        <h3>Vertical</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-4x {{ prefix }}-flip-vertical"></{{
+                tag }}>
+            <code>Add class "{{ prefix }}-flip-vertical"</code>
+        </p>
+        <h3>Both</h3>
+        <p>
+            <{{ tag }} class="{{ prefix }} {{ prefix }}-agile {{ prefix }}-4x {{ prefix }}-flip-both"></{{ tag
+                }}>
+            <code>Add class "{{ prefix }}-flip-both"</code>
+        </p>
+    </div>
+
+    <footer>
+        iconoir-font v7.0.2
+    </footer>
+
+</body>
+
+</html>

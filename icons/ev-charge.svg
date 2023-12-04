@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke-width="1.5" viewBox="0 0 24 24">
+    <path d="M6 8.25a.75.75 0 0 0-.75.75v10c0 1.51 1.24 2.75 2.75 2.75h9c1.51 0 2.75-1.24 2.75-2.75v-5a.75.75 0 0 0-.75-.75.75.75 0 0 0-.75.75v5c0 .7-.55 1.25-1.25 1.25H8c-.7 0-1.25-.55-1.25-1.25V9A.75.75 0 0 0 6 8.25" style="color:#000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"/>
+    <path d="M3.6 4.25A1.36 1.36 0 0 0 2.25 5.6V7c0 1.51 1.24 2.75 2.75 2.75h2c1.51 0 2.75-1.24 2.75-2.75V5.6A1.36 1.36 0 0 0 8.4 4.25Zm.15 1.5h4.5V7c0 .7-.55 1.25-1.25 1.25H5c-.7 0-1.25-.55-1.25-1.25Z" style="color:#000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"/>
+    <path d="M4 2.25a.75.75 0 0 0-.75.75v2a.75.75 0 0 0 .75.75.75.75 0 0 0 .75-.75V3A.75.75 0 0 0 4 2.25M8 2.25a.75.75 0 0 0-.75.75v2a.75.75 0 0 0 .75.75.75.75 0 0 0 .75-.75V3A.75.75 0 0 0 8 2.25" style="color:#000;fill:currentColor;stroke-linecap:round;-inkscape-stroke:none"/>
+    <path d="M18.531 3.344a.75.75 0 0 0-1.02.293l-1.667 3A.75.75 0 0 0 16.5 7.75h2.725l-1.047 1.887a.75.75 0 0 0 .29 1.02.75.75 0 0 0 1.02-.294l1.668-3A.75.75 0 0 0 20.5 6.25h-2.725l1.047-1.887a.75.75 0 0 0-.29-1.02" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+</svg>

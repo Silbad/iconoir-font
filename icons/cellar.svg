@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke-width="1.5" viewBox="0 0 24 24">
+    <path d="M12 2.25A9.751 9.751 0 0 0 2.25 12v9a.75.75 0 0 0 .75.75h18a.75.75 0 0 0 .75-.75v-9A9.751 9.751 0 0 0 12 2.25m0 1.5A8.25 8.25 0 0 1 20.25 12v8.25H3.75V12A8.25 8.25 0 0 1 12 3.75" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <path d="M3 16.25a.75.75 0 0 0-.75.75.75.75 0 0 0 .75.75h18a.75.75 0 0 0 .75-.75.75.75 0 0 0-.75-.75Z" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <path d="M9 12.25a.75.75 0 0 0-.75.75v4a.75.75 0 0 0 .75.75.75.75 0 0 0 .75-.75v-3.25H21a.75.75 0 0 0 .75-.75.75.75 0 0 0-.75-.75Z" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <path d="M13 8.25a.75.75 0 0 0-.75.75v4a.75.75 0 0 0 .75.75.75.75 0 0 0 .75-.75V9.75H20a.75.75 0 0 0 .75-.75.75.75 0 0 0-.75-.75Z" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+</svg>

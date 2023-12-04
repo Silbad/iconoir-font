@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "{{ name }}";
+    src: {{{ fontSrc }}};
+}
+
+[class^="{{prefix}}-"]::before,
+[class*=" {{prefix}}-"]::before {
+    display: inline-block;
+    font-family: {{ name }} !important;
+    font-style: normal;
+    font-weight: lighter !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: text-bottom;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* sizing */
+.{{prefix}}-2x {
+    font-size: 2rem;
+}
+
+.{{prefix}}-3x {
+    font-size: 3rem;
+}
+
+.{{prefix}}-4x {
+    font-size: 4rem;
+}
+
+.{{prefix}}-5x {
+    font-size: 5rem;
+}
+
+/* flip */
+.{{prefix}}-flip-horizontal {
+    transform: scaleX(-1);
+    display: inline-block;
+}
+
+.{{prefix}}-flip-vertical {
+    transform: scaleY(-1);
+    display: inline-block;
+}
+
+.{{prefix}}-flip-both {
+    transform: scale(-1);
+    display: inline-block;
+}
+
+/* codepoints */
+{{# each codepoints }}
+.{{ ../prefix }}-{{ @key }}::before {
+    content: "\\{{ codepoint this }}";
+}
+{{/ each }}
