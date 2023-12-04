@@ -1,5 +1,9 @@
 # iconoir-font
 
+## Demo
+
+✨ [https://silbad.github.io/iconoir-font/](https://silbad.github.io/iconoir-font/) ✨
+
 ## Requirements
 
 - [pnpm](https://pnpm.io/)
