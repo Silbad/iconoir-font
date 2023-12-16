@@ -2,21 +2,21 @@
 <svg
    width="24"
    height="24"
-   stroke-width="1.5"
    viewBox="0 0 24 24"
+   stroke-width="1.5"
    fill="none"
    version="1.1"
-   id="svg10"
+   id="svg4"
    sodipodi:docname="mac-os-window.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs14" />
+     id="defs4" />
   <sodipodi:namedview
-     id="namedview12"
+     id="namedview4"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -24,30 +24,29 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="34.541667"
-     inkscape:cx="10.364294"
-     inkscape:cy="12.014475"
+     inkscape:zoom="33.875"
+     inkscape:cx="11.98524"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg4" />
   <path
      style="color:#000000;fill:currentColor;-inkscape-stroke:none"
-     d="M 5,4.25 C 3.4901018,4.25 2.25,5.4901018 2.25,7 v 10 c 0,1.509917 1.2401154,2.75 2.75,2.75 h 14 c 1.509904,0 2.75,-1.240096 2.75,-2.75 V 7 C 21.75,5.4901154 20.509917,4.25 19,4.25 Z m 0,1.5 h 14 c 0.699281,0 1.25,0.5507468 1.25,1.25 v 10 c 0,0.699294 -0.550706,1.25 -1.25,1.25 H 5 C 4.3007468,18.25 3.75,17.699281 3.75,17 V 7 C 3.75,6.3007604 4.3007604,5.75 5,5.75 Z"
+     d="M 4.2226562,3.25 C 2.5784468,3.25 1.25,4.6287265 1.25,6.2851562 V 17.714844 C 1.25,19.371301 2.5784672,20.75 4.2226562,20.75 H 19.777344 C 21.421533,20.75 22.75,19.371293 22.75,17.714844 V 6.2851562 C 22.75,4.6287344 21.421553,3.25 19.777344,3.25 Z m 0,1.5 H 19.777344 C 20.587732,4.75 21.25,5.4168606 21.25,6.2851562 V 17.714844 C 21.25,18.583192 20.587752,19.25 19.777344,19.25 H 4.2226562 C 3.4122478,19.25 2.75,18.583184 2.75,17.714844 V 6.2851562 C 2.75,5.4168685 3.4122682,4.75 4.2226562,4.75 Z"
+     id="path1" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4.9707031,6.25 A 0.75,0.75 0 0 0 4.453125,6.4980469 l -0.00977,0.00977 a 0.75,0.75 0 0 0 0.054687,1.0605469 0.75,0.75 0 0 0 1.0585937,-0.056641 L 5.5683594,7.5 A 0.75,0.75 0 0 0 5.5117187,6.4414062 0.75,0.75 0 0 0 4.9707031,6.25 Z"
      id="path2" />
   <path
      style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 5.9707031,7.25 A 0.75,0.75 0 0 0 5.453125,7.4980469 l -0.00977,0.00977 a 0.75,0.75 0 0 0 0.054687,1.0605469 0.75,0.75 0 0 0 1.0585937,-0.056641 L 6.5683594,8.5 A 0.75,0.75 0 0 0 6.5117187,7.4414062 0.75,0.75 0 0 0 5.9707031,7.25 Z"
+     d="M 6.9707031,6.25 A 0.75,0.75 0 0 0 6.453125,6.4980469 l -0.00977,0.00977 a 0.75,0.75 0 0 0 0.054687,1.0605469 0.75,0.75 0 0 0 1.0585937,-0.056641 L 7.5683594,7.5 A 0.75,0.75 0 0 0 7.5117187,6.4414062 0.75,0.75 0 0 0 6.9707031,6.25 Z"
+     id="path3" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 9.5117188,6.4414062 A 0.75,0.75 0 0 0 8.453125,6.4980469 l -0.00977,0.00977 a 0.75,0.75 0 0 0 0.054687,1.0605469 0.75,0.75 0 0 0 1.0585937,-0.056641 L 9.5683594,7.5 A 0.75,0.75 0 0 0 9.5117188,6.4414062 Z"
      id="path4" />
-  <path
-     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 7.9707031,7.25 A 0.75,0.75 0 0 0 7.453125,7.4980469 l -0.00977,0.00977 a 0.75,0.75 0 0 0 0.054687,1.0605469 0.75,0.75 0 0 0 1.0585937,-0.056641 L 8.5683594,8.5 A 0.75,0.75 0 0 0 8.5117188,7.4414062 0.75,0.75 0 0 0 7.9707031,7.25 Z"
-     id="path6" />
-  <path
-     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 9.9707031,7.25 A 0.75,0.75 0 0 0 9.453125,7.4980469 l -0.00977,0.00977 a 0.75,0.75 0 0 0 0.054687,1.0605469 0.75,0.75 0 0 0 1.0585941,-0.056641 L 10.568359,8.5 A 0.75,0.75 0 0 0 10.511719,7.4414062 0.75,0.75 0 0 0 9.9707031,7.25 Z"
-     id="path8" />
 </svg>

@@ -2,21 +2,21 @@
 <svg
    width="24"
    height="24"
-   stroke-width="1.5"
    viewBox="0 0 24 24"
+   stroke-width="1.5"
    fill="none"
    version="1.1"
-   id="svg1"
-   sodipodi:docname="rhombus.svg"
+   id="svg2"
+   sodipodi:docname="u-turn-arrow-left.svg"
    inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1" />
+     id="defs2" />
   <sodipodi:namedview
-     id="namedview1"
+     id="namedview2"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -32,9 +32,13 @@
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg2" />
   <path
      style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 12,0.50390625 c -0.347056,5.35e-6 -0.694616,0.13015208 -0.955078,0.390625 L 0.89453125,11.044922 c -0.5207624,0.520962 -0.52094584,1.389233 0,1.910156 L 11.044922,23.105469 c 0.520983,0.520983 1.389302,0.520854 1.910156,0 L 23.105469,12.955078 c 0.520983,-0.520983 0.520854,-1.389302 0,-1.910156 L 12.955078,0.89453125 C 12.694597,0.63415005 12.347056,0.5039009 12,0.50390625 Z M 12,2.0605469 21.939453,12 12,21.939453 2.0605469,12 Z"
+     d="M 13,2.25 C 9.8332617,2.25 7.25,4.8332397 7.25,8 v 6 A 0.75,0.75 0 0 0 8,14.75 0.75,0.75 0 0 0 8.75,14 V 8 c 0,-2.3560942 1.893944,-4.25 4.25,-4.25 2.356056,0 4.25,1.8939058 4.25,4.25 V 21 A 0.75,0.75 0 0 0 18,21.75 0.75,0.75 0 0 0 18.75,21 V 8 C 18.75,4.8332397 16.166738,2.25 13,2.25 Z"
      id="path1" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 4,10.25 a 0.75,0.75 0 0 0 -0.53125,0.21875 0.75,0.75 0 0 0 0,1.0625 l 4,4 a 0.750075,0.750075 0 0 0 1.0625,0 l 4,-4 a 0.75,0.75 0 0 0 0,-1.0625 0.75,0.75 0 0 0 -1.0625,0 L 8,13.9375 4.53125,10.46875 A 0.75,0.75 0 0 0 4,10.25 Z"
+     id="path2" />
 </svg>

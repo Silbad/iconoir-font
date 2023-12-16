@@ -1,6 +1,6 @@
 {
     "name": "iconoir-font",
-    "version": "7.1.0",
+    "version": "7.2.0",
     "description": "",
     "main": "index.js",
     "keywords": [],
@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "fantasticon": "1.2.3",
-        "iconoir": "^7.1.0",
+        "iconoir": "^7.2.0",
         "svgo": "^3.0.5"
     },
     "packageManager": "pnpm@8.10.2"

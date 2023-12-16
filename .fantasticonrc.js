@@ -1397,6 +1397,12 @@ module.exports = {
         "hashtag": 58703,
         "peerlist": 58704,
         "polar-sh": 58705,
-        "x": 58706
+        "x": 58706,
+        "ice-cream": 58707,
+        "mastodon": 58708,
+        "meter-arrow-down-right": 58709,
+        "rhombus-arrow-right": 58710,
+        "u-turn-arrow-left": 58711,
+        "u-turn-arrow-right": 58712
     }
 };

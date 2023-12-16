@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="rhombus-arrow-right.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.875"
+     inkscape:cx="11.98524"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 14,8.25 a 0.75,0.75 0 0 0 -0.53125,0.21875 0.75,0.75 0 0 0 0,1.0625 L 14.1875,10.25 H 10 c -0.7499992,0 -1.4133994,0.350899 -1.90625,0.84375 C 7.6008994,11.586601 7.25,12.250001 7.25,13 v 1 A 0.75,0.75 0 0 0 8,14.75 0.75,0.75 0 0 0 8.75,14 v -1 c 0,-0.25 0.1491014,-0.586601 0.40625,-0.84375 C 9.4133986,11.899101 9.7500003,11.75 10,11.75 h 4.1875 l -0.71875,0.71875 a 0.75,0.75 0 0 0 0,1.0625 0.75,0.75 0 0 0 1.0625,0 l 2,-2 A 0.75,0.75 0 0 0 16.724609,11.0625 0.75,0.75 0 0 0 16.75,11 a 0.75,0.75 0 0 0 -0.02539,-0.128906 0.75,0.75 0 0 0 0,-0.06445 0.75,0.75 0 0 0 -0.01953,-0.0332 0.75,0.75 0 0 0 -0.173828,-0.304688 l -2,-2 A 0.75,0.75 0 0 0 14,8.25 Z"
+     id="path1" />
+  <path
+     style="color:#000000;fill:currentColor;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12,0.50390625 c -0.347042,0 -0.694635,0.1302815 -0.955078,0.390625 L 0.89453125,11.044922 c -0.520687,0.520887 -0.520687,1.389269 0,1.910156 L 11.044922,23.105469 c 0.520818,0.520595 1.389249,0.520907 1.910156,0 L 23.105469,12.955078 c 0.520595,-0.520818 0.520907,-1.389249 0,-1.910156 L 12.955078,0.89453125 C 12.694635,0.63418775 12.347042,0.50390625 12,0.50390625 Z M 12,2.0605469 21.939453,12 12,21.939453 2.0605469,12 Z"
+     id="path2" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <g
+         id="g4">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect3"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <g
+         id="g5">
+        <rect
+           width="24"
+           height="24"
+           fill="#ffffff"
+           id="rect4"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+  </defs>
+</svg>
