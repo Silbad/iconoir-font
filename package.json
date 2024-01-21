@@ -5,7 +5,7 @@
     "main": "index.js",
     "keywords": [],
     "author": "Silbad",
-    "license": "Private",
+    "license": "MIT",
     "scripts": {
         "build": "svgo -f origin -o icons && node codepoints && fantasticon -c .fantasticonrc.js -p iconoir --normalize"
     },
