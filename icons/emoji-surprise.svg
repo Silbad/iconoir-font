@@ -2,5 +2,5 @@
     <circle cx="12" cy="16" r="1.75" style="fill:#000;stroke-width:1.87304;stroke-linecap:round;stroke-linejoin:round"/>
     <circle cx="15.5" cy="8.5" r="1.25" style="fill:#000;stroke-width:2.27213;stroke-linecap:round;stroke-linejoin:round"/>
     <circle cx="8.5" cy="8.5" r="1.25" style="fill:#000;stroke-width:2.27213;stroke-linecap:round;stroke-linejoin:round"/>
-    <path d="M12 1.25C6.072 1.25 1.25 6.072 1.25 12S6.072 22.75 12 22.75 22.75 17.928 22.75 12 17.928 1.25 12 1.25m0 1.5A9.239 9.239 0 0 1 21.25 12 9.239 9.239 0 0 1 12 21.25 9.239 9.239 0 0 1 2.75 12 9.239 9.239 0 0 1 12 2.75" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
+    <path d="M12 1.25C6.072 1.25 1.25 6.072 1.25 12S6.072 22.75 12 22.75 22.75 17.928 22.75 12 17.928 1.25 12 1.25m0 1.5A9.24 9.24 0 0 1 21.25 12 9.24 9.24 0 0 1 12 21.25 9.24 9.24 0 0 1 2.75 12 9.24 9.24 0 0 1 12 2.75" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
 </svg>

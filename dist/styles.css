@@ -1,10 +1,10 @@
 @font-face {
     font-family: "iconoir";
-    src: url("./fonts/iconoir.eot?48b93907b3126253552e145e0ede3248#iefix") format("embedded-opentype"),
-url("./fonts/iconoir.ttf?48b93907b3126253552e145e0ede3248") format("truetype"),
-url("./fonts/iconoir.woff?48b93907b3126253552e145e0ede3248") format("woff"),
-url("./fonts/iconoir.woff2?48b93907b3126253552e145e0ede3248") format("woff2"),
-url("./fonts/iconoir.svg?48b93907b3126253552e145e0ede3248#iconoir") format("svg");
+    src: url("./fonts/iconoir.eot?f80b2b930eac34d6f1a8c624f559630e#iefix") format("embedded-opentype"),
+url("./fonts/iconoir.ttf?f80b2b930eac34d6f1a8c624f559630e") format("truetype"),
+url("./fonts/iconoir.woff?f80b2b930eac34d6f1a8c624f559630e") format("woff"),
+url("./fonts/iconoir.woff2?f80b2b930eac34d6f1a8c624f559630e") format("woff2"),
+url("./fonts/iconoir.svg?f80b2b930eac34d6f1a8c624f559630e#iconoir") format("svg");
 }
 
 [class^="iconoir-"]::before,

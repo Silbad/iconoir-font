@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke-width="1.5" viewBox="0 0 24 24">
     <path d="M4.25 2.25V19c0 1.51 1.24 2.75 2.75 2.75h10c1.51 0 2.75-1.24 2.75-2.75V2.25Zm1.5 1.5h12.5V19c0 .7-.55 1.25-1.25 1.25H7c-.7 0-1.25-.55-1.25-1.25Z" style="color:#000;fill:currentColor;-inkscape-stroke:none"/>
-    <path d="M3.5 2.25A2.261 2.261 0 0 0 1.25 4.5 2.261 2.261 0 0 0 3.5 6.75H5v-1.5H3.5a.739.739 0 0 1-.75-.75c0-.423.327-.75.75-.75h17c.423 0 .75.327.75.75s-.327.75-.75.75H19v1.5h1.5a2.261 2.261 0 0 0 2.25-2.25 2.261 2.261 0 0 0-2.25-2.25z" style="color:#000;fill:currentColor;-inkscape-stroke:none"/>
+    <path d="M3.5 2.25A2.26 2.26 0 0 0 1.25 4.5 2.26 2.26 0 0 0 3.5 6.75H5v-1.5H3.5a.74.74 0 0 1-.75-.75c0-.423.327-.75.75-.75h17c.423 0 .75.327.75.75s-.327.75-.75.75H19v1.5h1.5a2.26 2.26 0 0 0 2.25-2.25 2.26 2.26 0 0 0-2.25-2.25z" style="color:#000;fill:currentColor;-inkscape-stroke:none"/>
     <path d="M15 2.25a.75.75 0 0 0-.75.75v18a.75.75 0 0 0 .75.75.75.75 0 0 0 .75-.75V3a.75.75 0 0 0-.75-.75" style="color:#000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"/>
 </svg>

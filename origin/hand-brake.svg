@@ -2,21 +2,21 @@
 <svg
    width="24"
    height="24"
-   stroke-width="1.5"
    viewBox="0 0 24 24"
+   stroke-width="1.5"
    fill="none"
    version="1.1"
-   id="svg12"
+   id="svg4"
    sodipodi:docname="hand-brake.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs4" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview4"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -24,34 +24,33 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="34.541667"
-     inkscape:cx="10.364294"
-     inkscape:cy="12.014475"
+     inkscape:zoom="33.875"
+     inkscape:cx="11.98524"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="1912"
+     inkscape:window-x="3832"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
+     inkscape:current-layer="svg4" />
   <path
      style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 12,11.25 A 0.75,0.75 0 0 0 11.25,12 v 2 2 A 0.75,0.75 0 0 0 12,16.75 0.75,0.75 0 0 0 12.75,16 V 14 12 A 0.75,0.75 0 0 0 12,11.25 Z"
-     id="path2" />
+     id="path1" />
   <path
      style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 12,7.25 A 0.75,0.75 0 0 0 11.25,8 V 8.5 9 A 0.75,0.75 0 0 0 12,9.75 0.75,0.75 0 0 0 12.75,9 V 8.5 8 A 0.75,0.75 0 0 0 12,7.25 Z"
-     id="path4" />
+     id="path2" />
   <path
      style="color:#000000;fill:currentColor;-inkscape-stroke:none"
      d="m 12,3.25 c -4.8236033,0 -8.75,3.9263967 -8.75,8.75 0,4.823603 3.9263967,8.75 8.75,8.75 4.823603,0 8.75,-3.926397 8.75,-8.75 0,-4.8236033 -3.926397,-8.75 -8.75,-8.75 z m 0,1.5 c 4.012944,0 7.25,3.2370561 7.25,7.25 0,4.012944 -3.237056,7.25 -7.25,7.25 C 7.9870561,19.25 4.75,16.012944 4.75,12 4.75,7.9870561 7.9870561,4.75 12,4.75 Z"
-     id="circle6" />
+     id="circle2" />
   <path
      style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 3.9277344,3.75 A 0.75,0.75 0 0 0 3.4042969,3.9882813 C 1.4479915,6.086311 0.25,8.9081372 0.25,12 c 0,3.091881 1.1979981,5.913675 3.1542969,8.011719 a 0.75,0.75 0 0 0 1.0605468,0.03711 0.75,0.75 0 0 0 0.037109,-1.060547 C 2.7939556,17.156529 1.75,14.705113 1.75,12 1.75,9.2949085 2.7939621,6.843445 4.5019531,5.0117187 A 0.75,0.75 0 0 0 4.4648437,3.9511719 0.75,0.75 0 0 0 3.9277344,3.75 Z"
-     id="path8" />
+     id="path3" />
   <path
      style="color:#000000;fill:currentColor;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 20.072266,3.75 a 0.75,0.75 0 0 0 -0.53711,0.2011719 0.75,0.75 0 0 0 -0.03711,1.0605468 C 21.205997,6.8434516 22.25,9.2949172 22.25,12 c 0,2.705104 -1.043996,5.156523 -2.751953,6.988281 a 0.75,0.75 0 0 0 0.03711,1.060547 0.75,0.75 0 0 0 1.060547,-0.03711 C 22.551942,17.913681 23.75,15.09189 23.75,12 23.75,8.9081286 22.551949,6.0863045 20.595703,3.9882813 A 0.75,0.75 0 0 0 20.072266,3.75 Z"
-     id="path10" />
+     id="path4" />
 </svg>
