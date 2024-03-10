@@ -21,6 +21,10 @@ Web font with the great iconoir-icons
 - The SVG editor (stroke to outline) > [Inkscape](https://inkscape.org/fr/)
 - The time saver > [Power Automate](https://powerautomate.microsoft.com)
 
+## 😘 The extras icons (unofficial)
+
+- extra-?
+
 ## 🤩 Use iconoir-font
 
 ### Development
