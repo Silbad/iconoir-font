@@ -1,10 +1,10 @@
 @font-face {
     font-family: "iconoir";
-    src: url("./fonts/iconoir.eot?f80b2b930eac34d6f1a8c624f559630e#iefix") format("embedded-opentype"),
-url("./fonts/iconoir.ttf?f80b2b930eac34d6f1a8c624f559630e") format("truetype"),
-url("./fonts/iconoir.woff?f80b2b930eac34d6f1a8c624f559630e") format("woff"),
-url("./fonts/iconoir.woff2?f80b2b930eac34d6f1a8c624f559630e") format("woff2"),
-url("./fonts/iconoir.svg?f80b2b930eac34d6f1a8c624f559630e#iconoir") format("svg");
+    src: url("./fonts/iconoir.eot?b535ab3ea5e279be870ab0a786174e59#iefix") format("embedded-opentype"),
+url("./fonts/iconoir.ttf?b535ab3ea5e279be870ab0a786174e59") format("truetype"),
+url("./fonts/iconoir.woff?b535ab3ea5e279be870ab0a786174e59") format("woff"),
+url("./fonts/iconoir.woff2?b535ab3ea5e279be870ab0a786174e59") format("woff2"),
+url("./fonts/iconoir.svg?b535ab3ea5e279be870ab0a786174e59#iconoir") format("svg");
 }
 
 [class^="iconoir-"]::before,
@@ -4161,4 +4161,7 @@ url("./fonts/iconoir.svg?f80b2b930eac34d6f1a8c624f559630e#iconoir") format("svg"
 }
 .iconoir-u-turn-arrow-right::before {
     content: "\e558";
+}
+.iconoir-check-square::before {
+    content: "\e559";
 }

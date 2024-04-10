@@ -1403,6 +1403,7 @@ module.exports = {
         "meter-arrow-down-right": 58709,
         "rhombus-arrow-right": 58710,
         "u-turn-arrow-left": 58711,
-        "u-turn-arrow-right": 58712
+        "u-turn-arrow-right": 58712,
+        "check-square": 58713
     }
 };
