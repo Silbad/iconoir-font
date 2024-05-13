@@ -1404,6 +1404,7 @@ module.exports = {
         "rhombus-arrow-right": 58710,
         "u-turn-arrow-left": 58711,
         "u-turn-arrow-right": 58712,
-        "check-square": 58713
+        "check-square": 58713,
+        "window-tabs": 58714
     }
 };
