@@ -4,7 +4,7 @@ Web font with the great iconoir-icons
 
 ## Demo
 
-✨ [https://silbad.github.io/iconoir-font/](https://silbad.github.io/iconoir-font/) ✨
+✨ [https://iconoir-font.com](https://iconoir-font.com) ✨
 
 ## Requirements
 
