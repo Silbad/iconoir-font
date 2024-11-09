@@ -1,10 +1,10 @@
 @font-face {
     font-family: "iconoir";
-    src: url("./fonts/iconoir.eot?a08c7b21f428752a4d83153a7f72aaf6#iefix") format("embedded-opentype"),
-url("./fonts/iconoir.ttf?a08c7b21f428752a4d83153a7f72aaf6") format("truetype"),
-url("./fonts/iconoir.woff?a08c7b21f428752a4d83153a7f72aaf6") format("woff"),
-url("./fonts/iconoir.woff2?a08c7b21f428752a4d83153a7f72aaf6") format("woff2"),
-url("./fonts/iconoir.svg?a08c7b21f428752a4d83153a7f72aaf6#iconoir") format("svg");
+    src: url("./fonts/iconoir.eot?6eadbdc7551e649071b6403031680224#iefix") format("embedded-opentype"),
+url("./fonts/iconoir.ttf?6eadbdc7551e649071b6403031680224") format("truetype"),
+url("./fonts/iconoir.woff?6eadbdc7551e649071b6403031680224") format("woff"),
+url("./fonts/iconoir.woff2?6eadbdc7551e649071b6403031680224") format("woff2"),
+url("./fonts/iconoir.svg?6eadbdc7551e649071b6403031680224#iconoir") format("svg");
 }
 
 [class^="iconoir-"]::before,
@@ -4194,4 +4194,7 @@ url("./fonts/iconoir.svg?a08c7b21f428752a4d83153a7f72aaf6#iconoir") format("svg"
 }
 .iconoir-cube-scan::before {
     content: "\e563";
+}
+.iconoir-uo-folder-user::before {
+    content: "\e564";
 }

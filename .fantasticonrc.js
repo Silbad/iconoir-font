@@ -1414,6 +1414,7 @@ module.exports = {
         "calendar-rotate": 58720,
         "calendar-xmark": 58721,
         "cube-dots": 58722,
-        "cube-scan": 58723
+        "cube-scan": 58723,
+        "uo-folder-user": 58724
     }
 };
