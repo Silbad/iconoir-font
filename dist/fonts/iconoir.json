@@ -1371,5 +1371,12 @@
     "check-square": 58713,
     "window-tabs": 58714,
     "git": 58715,
-    "uo-user-settings": 58716
+    "uo-user-settings": 58716,
+    "calendar-arrow-down": 58717,
+    "calendar-arrow-up": 58718,
+    "calendar-check": 58719,
+    "calendar-rotate": 58720,
+    "calendar-xmark": 58721,
+    "cube-dots": 58722,
+    "cube-scan": 58723
 }
