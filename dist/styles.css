@@ -1,10 +1,10 @@
 @font-face {
     font-family: "iconoir";
-    src: url("./fonts/iconoir.eot?6eadbdc7551e649071b6403031680224#iefix") format("embedded-opentype"),
-url("./fonts/iconoir.ttf?6eadbdc7551e649071b6403031680224") format("truetype"),
-url("./fonts/iconoir.woff?6eadbdc7551e649071b6403031680224") format("woff"),
-url("./fonts/iconoir.woff2?6eadbdc7551e649071b6403031680224") format("woff2"),
-url("./fonts/iconoir.svg?6eadbdc7551e649071b6403031680224#iconoir") format("svg");
+    src: url("./fonts/iconoir.eot?04ba00943456f2c39cf855f5af30e28d#iefix") format("embedded-opentype"),
+url("./fonts/iconoir.ttf?04ba00943456f2c39cf855f5af30e28d") format("truetype"),
+url("./fonts/iconoir.woff?04ba00943456f2c39cf855f5af30e28d") format("woff"),
+url("./fonts/iconoir.woff2?04ba00943456f2c39cf855f5af30e28d") format("woff2"),
+url("./fonts/iconoir.svg?04ba00943456f2c39cf855f5af30e28d#iconoir") format("svg");
 }
 
 [class^="iconoir-"]::before,
@@ -4197,4 +4197,7 @@ url("./fonts/iconoir.svg?6eadbdc7551e649071b6403031680224#iconoir") format("svg"
 }
 .iconoir-uo-folder-user::before {
     content: "\e564";
+}
+.iconoir-droplet-snow-flake::before {
+    content: "\e565";
 }

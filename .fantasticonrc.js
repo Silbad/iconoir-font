@@ -1415,6 +1415,7 @@ module.exports = {
         "calendar-xmark": 58721,
         "cube-dots": 58722,
         "cube-scan": 58723,
-        "uo-folder-user": 58724
+        "uo-folder-user": 58724,
+        "droplet-snow-flake": 58725
     }
 };
