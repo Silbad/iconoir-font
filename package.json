@@ -14,5 +14,5 @@
         "iconoir": "^7.10.0",
         "svgo": "^3.3.2"
     },
-    "packageManager": "pnpm@8.10.2"
+    "packageManager": "pnpm@9.12.3"
 }
