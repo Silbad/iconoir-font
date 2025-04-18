@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   stroke-width="1.5"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="dots-grid-3x3.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.625"
+     inkscape:cx="11.98513"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <g
+     id="path1">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="M 5.5,6 C 5.77614,6 6,5.77614 6,5.5 6,5.22386 5.77614,5 5.5,5 5.22386,5 5,5.22386 5,5.5 5,5.77614 5.22386,6 5.5,6 Z"
+       id="path26" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="M 5.5,4.25 C 4.8185221,4.25 4.25,4.8185221 4.25,5.5 4.25,6.1814779 4.8185221,6.75 5.5,6.75 6.1814779,6.75 6.75,6.1814779 6.75,5.5 6.75,4.8185221 6.1814779,4.25 5.5,4.25 Z m 0,1 C 5.6291979,5.25 5.75,5.3708021 5.75,5.5 5.75,5.6291979 5.6291979,5.75 5.5,5.75 5.3708021,5.75 5.25,5.6291979 5.25,5.5 5.25,5.3708021 5.3708021,5.25 5.5,5.25 Z"
+       id="path27" />
+  </g>
+  <g
+     id="path2">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="M 5.5,12.5 C 5.77614,12.5 6,12.2761 6,12 6,11.7239 5.77614,11.5 5.5,11.5 5.22386,11.5 5,11.7239 5,12 c 0,0.2761 0.22386,0.5 0.5,0.5 z"
+       id="path24" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 5.5,10.75 c -0.6815503,0 -1.25,0.568503 -1.25,1.25 0,0.681497 0.5684497,1.25 1.25,1.25 0.6815503,0 1.25,-0.568503 1.25,-1.25 0,-0.681497 -0.5684497,-1.25 -1.25,-1.25 z m 0,1 c 0.1292703,0 0.25,0.120703 0.25,0.25 0,0.129297 -0.1207297,0.25 -0.25,0.25 -0.1292703,0 -0.25,-0.120703 -0.25,-0.25 0,-0.129297 0.1207297,-0.25 0.25,-0.25 z"
+       id="path25" />
+  </g>
+  <g
+     id="path3">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="M 5.5,19 C 5.77614,19 6,18.7761 6,18.5 6,18.2239 5.77614,18 5.5,18 5.22386,18 5,18.2239 5,18.5 5,18.7761 5.22386,19 5.5,19 Z"
+       id="path22" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 5.5,17.25 c -0.6815503,0 -1.25,0.568503 -1.25,1.25 0,0.681497 0.5684497,1.25 1.25,1.25 0.6815503,0 1.25,-0.568503 1.25,-1.25 0,-0.681497 -0.5684497,-1.25 -1.25,-1.25 z m 0,1 c 0.1292703,0 0.25,0.120703 0.25,0.25 0,0.129297 -0.1207297,0.25 -0.25,0.25 -0.1292703,0 -0.25,-0.120703 -0.25,-0.25 0,-0.129297 0.1207297,-0.25 0.25,-0.25 z"
+       id="path23" />
+  </g>
+  <g
+     id="path4">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="M 12,6 C 12.2761,6 12.5,5.77614 12.5,5.5 12.5,5.22386 12.2761,5 12,5 11.7239,5 11.5,5.22386 11.5,5.5 11.5,5.77614 11.7239,6 12,6 Z"
+       id="path20" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 12,4.25 c -0.681497,0 -1.25,0.5684497 -1.25,1.25 0,0.6815503 0.568503,1.25 1.25,1.25 0.681497,0 1.25,-0.5684497 1.25,-1.25 0,-0.6815503 -0.568503,-1.25 -1.25,-1.25 z m 0,1 c 0.129297,0 0.25,0.1207297 0.25,0.25 0,0.1292703 -0.120703,0.25 -0.25,0.25 -0.129297,0 -0.25,-0.1207297 -0.25,-0.25 0,-0.1292703 0.120703,-0.25 0.25,-0.25 z"
+       id="path21" />
+  </g>
+  <g
+     id="path5">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 12,12.5 c 0.2761,0 0.5,-0.2239 0.5,-0.5 0,-0.2761 -0.2239,-0.5 -0.5,-0.5 -0.2761,0 -0.5,0.2239 -0.5,0.5 0,0.2761 0.2239,0.5 0.5,0.5 z"
+       id="path18" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 12,10.75 c -0.681569,0 -1.25,0.568431 -1.25,1.25 0,0.681569 0.568431,1.25 1.25,1.25 0.681569,0 1.25,-0.568431 1.25,-1.25 0,-0.681569 -0.568431,-1.25 -1.25,-1.25 z m 0,1 c 0.129369,0 0.25,0.120631 0.25,0.25 0,0.129369 -0.120631,0.25 -0.25,0.25 -0.129369,0 -0.25,-0.120631 -0.25,-0.25 0,-0.129369 0.120631,-0.25 0.25,-0.25 z"
+       id="path19" />
+  </g>
+  <g
+     id="path6">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 12,19 c 0.2761,0 0.5,-0.2239 0.5,-0.5 0,-0.2761 -0.2239,-0.5 -0.5,-0.5 -0.2761,0 -0.5,0.2239 -0.5,0.5 0,0.2761 0.2239,0.5 0.5,0.5 z"
+       id="path16" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 12,17.25 c -0.681569,0 -1.25,0.568431 -1.25,1.25 0,0.681569 0.568431,1.25 1.25,1.25 0.681569,0 1.25,-0.568431 1.25,-1.25 0,-0.681569 -0.568431,-1.25 -1.25,-1.25 z m 0,1 c 0.129369,0 0.25,0.120631 0.25,0.25 0,0.129369 -0.120631,0.25 -0.25,0.25 -0.129369,0 -0.25,-0.120631 -0.25,-0.25 0,-0.129369 0.120631,-0.25 0.25,-0.25 z"
+       id="path17" />
+  </g>
+  <g
+     id="path7">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="M 18.5,6 C 18.7761,6 19,5.77614 19,5.5 19,5.22386 18.7761,5 18.5,5 18.2239,5 18,5.22386 18,5.5 18,5.77614 18.2239,6 18.5,6 Z"
+       id="path14" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 18.5,4.25 c -0.681497,0 -1.25,0.5684497 -1.25,1.25 0,0.6815503 0.568503,1.25 1.25,1.25 0.681497,0 1.25,-0.5684497 1.25,-1.25 0,-0.6815503 -0.568503,-1.25 -1.25,-1.25 z m 0,1 c 0.129297,0 0.25,0.1207297 0.25,0.25 0,0.1292703 -0.120703,0.25 -0.25,0.25 -0.129297,0 -0.25,-0.1207297 -0.25,-0.25 0,-0.1292703 0.120703,-0.25 0.25,-0.25 z"
+       id="path15" />
+  </g>
+  <g
+     id="path8">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 18.5,12.5 c 0.2761,0 0.5,-0.2239 0.5,-0.5 0,-0.2761 -0.2239,-0.5 -0.5,-0.5 -0.2761,0 -0.5,0.2239 -0.5,0.5 0,0.2761 0.2239,0.5 0.5,0.5 z"
+       id="path12" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 18.5,10.75 c -0.681569,0 -1.25,0.568431 -1.25,1.25 0,0.681569 0.568431,1.25 1.25,1.25 0.681569,0 1.25,-0.568431 1.25,-1.25 0,-0.681569 -0.568431,-1.25 -1.25,-1.25 z m 0,1 c 0.129369,0 0.25,0.120631 0.25,0.25 0,0.129369 -0.120631,0.25 -0.25,0.25 -0.129369,0 -0.25,-0.120631 -0.25,-0.25 0,-0.129369 0.120631,-0.25 0.25,-0.25 z"
+       id="path13" />
+  </g>
+  <g
+     id="path9">
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="M 18.5,19 C 18.7761,19 19,18.7761 19,18.5 19,18.2239 18.7761,18 18.5,18 18.2239,18 18,18.2239 18,18.5 c 0,0.2761 0.2239,0.5 0.5,0.5 z"
+       id="path10" />
+    <path
+       style="fill:currentColor;stroke-linecap:round;stroke-linejoin:round"
+       d="m 18.5,17.25 c -0.681569,0 -1.25,0.568431 -1.25,1.25 0,0.681569 0.568431,1.25 1.25,1.25 0.681569,0 1.25,-0.568431 1.25,-1.25 0,-0.681569 -0.568431,-1.25 -1.25,-1.25 z m 0,1 c 0.129369,0 0.25,0.120631 0.25,0.25 0,0.129369 -0.120631,0.25 -0.25,0.25 -0.129369,0 -0.25,-0.120631 -0.25,-0.25 0,-0.129369 0.120631,-0.25 0.25,-0.25 z"
+       id="path11" />
+  </g>
+</svg>

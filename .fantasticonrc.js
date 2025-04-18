@@ -1416,6 +1416,9 @@ module.exports = {
         "cube-dots": 58722,
         "cube-scan": 58723,
         "uo-folder-user": 58724,
-        "droplet-snow-flake": 58725
+        "bug": 58725,
+        "dots-grid-3x3": 58726,
+        "droplet-snow-flake-in": 58727,
+        "whatsapp": 58728
     }
 };

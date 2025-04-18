@@ -1,10 +1,10 @@
 @font-face {
     font-family: "iconoir";
-    src: url("./fonts/iconoir.eot?04ba00943456f2c39cf855f5af30e28d#iefix") format("embedded-opentype"),
-url("./fonts/iconoir.ttf?04ba00943456f2c39cf855f5af30e28d") format("truetype"),
-url("./fonts/iconoir.woff?04ba00943456f2c39cf855f5af30e28d") format("woff"),
-url("./fonts/iconoir.woff2?04ba00943456f2c39cf855f5af30e28d") format("woff2"),
-url("./fonts/iconoir.svg?04ba00943456f2c39cf855f5af30e28d#iconoir") format("svg");
+    src: url("./fonts/iconoir.eot?872792cfa12245e90684333c63962444#iefix") format("embedded-opentype"),
+url("./fonts/iconoir.ttf?872792cfa12245e90684333c63962444") format("truetype"),
+url("./fonts/iconoir.woff?872792cfa12245e90684333c63962444") format("woff"),
+url("./fonts/iconoir.woff2?872792cfa12245e90684333c63962444") format("woff2"),
+url("./fonts/iconoir.svg?872792cfa12245e90684333c63962444#iconoir") format("svg");
 }
 
 [class^="iconoir-"]::before,
@@ -4198,6 +4198,15 @@ url("./fonts/iconoir.svg?04ba00943456f2c39cf855f5af30e28d#iconoir") format("svg"
 .iconoir-uo-folder-user::before {
     content: "\e564";
 }
-.iconoir-droplet-snow-flake::before {
+.iconoir-bug::before {
     content: "\e565";
+}
+.iconoir-dots-grid-3x3::before {
+    content: "\e566";
+}
+.iconoir-droplet-snow-flake-in::before {
+    content: "\e567";
+}
+.iconoir-whatsapp::before {
+    content: "\e568";
 }
