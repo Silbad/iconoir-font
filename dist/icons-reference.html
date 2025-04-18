@@ -2,7 +2,8 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
+    
     <title>iconoir</title>
 
     <style>
@@ -95,30 +96,55 @@
 
     <script>
         document.addEventListener('click', function (event) {
+            // Check if a valid element was clicked
             if (!event.target.matches('.inner,.inner i,.label')) return;
+            
             event.preventDefault();
-            const icon = event.target.closest('.preview').getAttribute('data-key');
-            navigator.clipboard.writeText(icon).then(function () {
-                document.querySelectorAll('.label').forEach(function (el) {
-                    el.innerHTML = el.getAttribute('data-text');
-                    el.style.backgroundColor = '#ddd';
-                });
-                event.target.closest('.preview').querySelector('.label').innerHTML = 'Copied!';
-                event.target.closest('.preview').querySelector('.label').style.backgroundColor = '#DDFBBF';
-                setTimeout(function () {
-                    event.target.closest('.preview').querySelector('.label').innerHTML = event.target.closest('.preview').querySelector('.label').getAttribute('data-text');
-                    event.target.closest('.preview').querySelector('.label').style.backgroundColor = '#DDD';
-                }, 3000);
+            
+            // Find the preview element and its label
+            const previewEl = event.target.closest('.preview');
+            const labelEl = previewEl.querySelector('.label');
+            const iconName = previewEl.getAttribute('data-key');
+            
+            // Reset all labels
+            document.querySelectorAll('.label').forEach(label => {
+                label.textContent = label.getAttribute('data-text');
+                label.style.backgroundColor = '#DDD';
             });
+            
+            // Immediate visual feedback
+            labelEl.textContent = 'Copying...';
+            labelEl.style.backgroundColor = '#FFFFBB';
+            
+            // Copy to clipboard with error handling
+            navigator.clipboard.writeText(iconName)
+                .then(() => {
+                    // Success feedback
+                    labelEl.textContent = 'Copied!';
+                    labelEl.style.backgroundColor = '#DDFBBF';
+                    
+                    // Reset after 3 seconds
+                    setTimeout(() => {
+                        labelEl.textContent = labelEl.getAttribute('data-text');
+                        labelEl.style.backgroundColor = '#DDD';
+                    }, 3000);
+                })
+                .catch(err => {
+                    // Error handling
+                    console.error('Failed to copy: ', err);
+                    labelEl.textContent = 'Copy failed!';
+                    labelEl.style.backgroundColor = '#FFBBBB';
+                    
+                    setTimeout(() => {
+                        labelEl.textContent = labelEl.getAttribute('data-text');
+                        labelEl.style.backgroundColor = '#DDD';
+                    }, 3000);
+                });
         }, false);
     </script>
 
     <link rel="stylesheet" type="text/css" href="styles.css" />
     <link rel="icon" href="favicon.ico" />
-
-    <script defer data-domain="iconoir-font.com"
-        src="https://analytics.silbad.com/js/script.outbound-links.js"></script>
-    <script>window.plausible = window.plausible || function () { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 </head>
 
 <body>
@@ -11264,7 +11290,7 @@
     </div>
 
     <footer>
-        iconoir-font v7.0.2
+        iconoir-font v7.11.0
     </footer>
 
 </body>
