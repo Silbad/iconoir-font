@@ -25,7 +25,7 @@ module.exports = {
         "html": "./templates/html.hbs"
     },
     "pathOptions": {
-        "html": "./dist/icons-reference.html",
+        "html": "./dist/index.html",
         "css": "./dist/styles.css",
         "ttf": "./dist/fonts/iconoir.ttf",
         "woff": "./dist/fonts/iconoir.woff",
