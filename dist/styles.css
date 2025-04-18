@@ -7,6 +7,10 @@ url("./fonts/iconoir.woff2?872792cfa12245e90684333c63962444") format("woff2"),
 url("./fonts/iconoir.svg?872792cfa12245e90684333c63962444#iconoir") format("svg");
 }
 
+[class^="iconoir-"], [class*=" iconoir-"] {
+    display: inline-flex;
+}
+
 [class^="iconoir-"]::before,
 [class*=" iconoir-"]::before {
     display: inline-block;

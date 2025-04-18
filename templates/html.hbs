@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>{{ name }}</title>
 
     <style>
@@ -44,11 +44,13 @@
 
         .preview .inner {
             width: 100%;
-            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             border-radius: 3px 3px 0 0;
             cursor: pointer;
-            line-height: 85px;
             color: #000;
+            height: 5rem;
         }
 
         .label {
@@ -131,7 +133,6 @@
             <span class="inner" title="{{ @key }}">
                 <{{ ../tag }} class="{{ ../prefix }} {{ ../prefix }}-{{ @key }} {{ ../prefix }}-2x"></{{ ../tag }}>
             </span>
-            <br>
             <span class="label" data-text="{{ @key }}" title="{{ @key }}">{{ @key }}</span>
         </div>
 

@@ -3,6 +3,10 @@
     src: {{{ fontSrc }}};
 }
 
+[class^="{{prefix}}-"], [class*=" {{prefix}}-"] {
+    display: inline-flex;
+}
+
 [class^="{{prefix}}-"]::before,
 [class*=" {{prefix}}-"]::before {
     display: inline-block;
